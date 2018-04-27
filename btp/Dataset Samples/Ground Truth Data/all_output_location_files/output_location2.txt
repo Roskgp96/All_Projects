@@ -1,0 +1,442 @@
+id 0 77  26  Dascllus Reticulatus  19  152
+id 1 77  26  Dascllus Reticulatus  19  152
+id 6 74  28  Dascllus Reticulatus  14  152
+ 77  24  Dascllus Reticulatus  17  163
+id 7 74  28  Dascllus Reticulatus  14  150
+ 79  24  Dascllus Reticulatus  17  166
+id 8 76  25  Dascllus Reticulatus  19  168
+ 72  29  Dascllus Reticulatus  21  145
+id 9 72  29  Dascllus Reticulatus  25  144
+ 75  25  Dascllus Reticulatus  22  168
+id 10 76  25  Dascllus Reticulatus  26  144
+ 74  25  Dascllus Reticulatus  22  172
+id 11 80  25  Dascllus Reticulatus  26  145
+ 72  24  Dascllus Reticulatus  24  174
+id 12 80  29  Dascllus Reticulatus  28  145
+ 73  24  Dascllus Reticulatus  26  177
+ 155  29  Neoglpidodon Nigroris  57  229
+id 13 80  27  Dascllus Reticulatus  25  148
+ 73  25  Dascllus Reticulatus  30  177
+ 155  29  Neoglpidodon Nigroris  57  241
+id 14 80  27  Dascllus Reticulatus  25  150
+ 74  23  Dascllus Reticulatus  26  180
+ 155  29  Neoglpidodon Nigroris  50  269
+id 15 80  27  Dascllus Reticulatus  25  151
+ 89  17  Dascllus Reticulatus  17  133
+ 133  103  Dascllus Reticulatus  77  0
+id 16 85  27  Dascllus Reticulatus  29  156
+ 87  21  Dascllus Reticulatus  18  133
+ 133  105  Dascllus Reticulatus  77  -1
+id 17 93  19  Dascllus Reticulatus  29  156
+ 91  17  Dascllus Reticulatus  18  135
+ 123  111  Dascllus Reticulatus  89  -1
+id 18 93  19  Dascllus Reticulatus  29  156
+ 91  17  Dascllus Reticulatus  18  135
+ 60  17  Neoglpidodon Nigroris  31  201
+ 101  111  Dascllus Reticulatus  97  1
+id 19 59  17  Neoglpidodon Nigroris  31  204
+ 92  116  Dascllus Reticulatus  113  1
+ 89  22  Dascllus Reticulatus  26  158
+id 20 56  17  Neoglpidodon Nigroris  31  209
+ 89  22  Dascllus Reticulatus  26  159
+ 53  128  Dascllus Reticulatus  117  28
+id 21 53  17  Neoglpidodon Nigroris  24  218
+ 84  24  Dascllus Reticulatus  26  159
+ 5  109  Dascllus Reticulatus  125  49
+id 22 -24  109  Dascllus Reticulatus  117  70
+ 85  24  Dascllus Reticulatus  26  159
+ 52  17  Neoglpidodon Nigroris  22  221
+id 23 61  30  Caetodon Trifascialis  36  75
+ 86  24  Dascllus Reticulatus  26  159
+ 91  19  Dascllus Reticulatus  15  139
+ -24  62  Dascllus Reticulatus  92  104
+id 24 86  24  Dascllus Reticulatus  26  159
+ 91  19  Dascllus Reticulatus  15  139
+ 63  28  Caetodon Trifascialis  32  79
+ 48  18  Neoglpidodon Nigroris  31  215
+id 25 64  28  Caetodon Trifascialis  32  79
+ 86  24  Dascllus Reticulatus  26  163
+ 91  19  Dascllus Reticulatus  15  139
+ 48  18  Neoglpidodon Nigroris  31  214
+id 26 65  27  Caetodon Trifascialis  32  82
+ 81  24  Dascllus Reticulatus  27  161
+ 45  20  Neoglpidodon Nigroris  34  214
+id 27 45  19  Neoglpidodon Nigroris  31  215
+ 81  24  Dascllus Reticulatus  27  161
+ 69  27  Caetodon Trifascialis  32  84
+id 28 45  19  Neoglpidodon Nigroris  31  215
+ 83  24  Dascllus Reticulatus  27  160
+ 70  27  Caetodon Trifascialis  38  84
+id 29 45  19  Neoglpidodon Nigroris  26  219
+ 83  22  Dascllus Reticulatus  24  161
+ 89  20  Dascllus Reticulatus  19  135
+id 30 46  20  Neoglpidodon Nigroris  23  223
+ 85  24  Dascllus Reticulatus  25  156
+ 77  25  Dascllus Reticulatus  25  172
+id 31 89  22  Dascllus Reticulatus  23  155
+ 77  25  Dascllus Reticulatus  25  173
+ 44  22  Neoglpidodon Nigroris  24  221
+id 32 45  21  Neoglpidodon Nigroris  23  219
+ 89  22  Dascllus Reticulatus  24  154
+ 75  25  Dascllus Reticulatus  25  177
+ 92  16  Dascllus Reticulatus  15  133
+id 33 89  22  Dascllus Reticulatus  24  154
+ 72  25  Dascllus Reticulatus  25  177
+ 92  16  Dascllus Reticulatus  15  133
+ 47  21  Neoglpidodon Nigroris  21  217
+id 34 49  19  Neoglpidodon Nigroris  15  217
+ 70  25  Dascllus Reticulatus  25  177
+ 89  22  Dascllus Reticulatus  24  154
+ 89  16  Dascllus Reticulatus  16  130
+ 68  31  Caetodon Trifascialis  42  86
+id 35 66  31  Caetodon Trifascialis  42  88
+ 89  16  Dascllus Reticulatus  16  130
+ 70  25  Dascllus Reticulatus  25  177
+ 89  22  Dascllus Reticulatus  24  154
+ 14  19  Ampiprion Clarkii  18  78
+id 36 14  18  Ampiprion Clarkii  25  72
+ 66  30  Caetodon Trifascialis  35  93
+ 89  16  Dascllus Reticulatus  16  130
+ 86  25  Dascllus Reticulatus  25  155
+ 65  25  Dascllus Reticulatus  25  177
+id 37 14  18  Ampiprion Clarkii  25  72
+ 64  30  Caetodon Trifascialis  35  93
+ 90  16  Dascllus Reticulatus  16  130
+ 86  25  Dascllus Reticulatus  25  155
+ 66  25  Dascllus Reticulatus  25  177
+id 38 84  25  Dascllus Reticulatus  25  155
+ 64  25  Dascllus Reticulatus  25  174
+ 91  16  Dascllus Reticulatus  16  132
+ 60  30  Caetodon Trifascialis  30  90
+ 15  18  Ampiprion Clarkii  23  74
+id 39 58  23  Dascllus Reticulatus  19  175
+ 82  25  Dascllus Reticulatus  25  156
+ 91  16  Dascllus Reticulatus  16  134
+ 58  32  Caetodon Trifascialis  30  86
+ 18  18  Ampiprion Clarkii  21  76
+id 40 56  34  Caetodon Trifascialis  26  85
+ 82  25  Dascllus Reticulatus  28  156
+ 18  18  Ampiprion Clarkii  21  77
+id 41 54  34  Caetodon Trifascialis  26  78
+ 81  25  Dascllus Reticulatus  22  158
+ 18  18  Ampiprion Clarkii  23  76
+id 42 79  25  Dascllus Reticulatus  22  157
+ 53  34  Caetodon Trifascialis  25  71
+ 17  17  Ampiprion Clarkii  18  86
+id 43 79  25  Dascllus Reticulatus  22  157
+ 53  32  Caetodon Trifascialis  18  69
+ 48  23  Dascllus Reticulatus  19  156
+ 17  17  Ampiprion Clarkii  18  89
+id 44 70  26  Dascllus Reticulatus  27  158
+ 46  37  Caetodon Trifascialis  27  53
+ 15  17  Ampiprion Clarkii  18  94
+id 45 70  26  Dascllus Reticulatus  27  154
+ 46  38  Caetodon Trifascialis  42  27
+ 15  17  Ampiprion Clarkii  18  94
+id 46 71  26  Dascllus Reticulatus  27  151
+ 46  39  Caetodon Trifascialis  49  17
+ 14  17  Ampiprion Clarkii  22  102
+id 47 45  37  Caetodon Trifascialis  61  3
+ 71  26  Dascllus Reticulatus  29  144
+ 12  17  Ampiprion Clarkii  24  109
+id 48 68  26  Dascllus Reticulatus  29  142
+ 44  37  Caetodon Trifascialis  56  1
+ 6  17  Ampiprion Clarkii  24  116
+id 49 68  27  Dascllus Reticulatus  29  142
+ 44  35  Caetodon Trifascialis  48  1
+ 6  17  Ampiprion Clarkii  24  118
+id 50 8  17  Ampiprion Clarkii  24  124
+id 51 11  19  Ampiprion Clarkii  23  130
+id 52 15  19  Ampiprion Clarkii  23  132
+id 53 15  19  Ampiprion Clarkii  25  135
+ 63  29  Dascllus Reticulatus  20  142
+id 54 13  19  Ampiprion Clarkii  25  135
+ 24  26  Dascllus Reticulatus  27  101
+ 61  31  Dascllus Reticulatus  21  141
+id 55 13  19  Ampiprion Clarkii  28  136
+ 24  26  Dascllus Reticulatus  27  101
+ 63  29  Dascllus Reticulatus  21  143
+ 14  18  Dascllus Reticulatus  24  194
+id 56 9  19  Ampiprion Clarkii  28  139
+ 61  29  Dascllus Reticulatus  26  142
+ 26  28  Dascllus Reticulatus  27  103
+ 14  18  Dascllus Reticulatus  24  194
+id 57 2  19  Ampiprion Clarkii  28  141
+ 61  27  Dascllus Reticulatus  23  147
+ 31  28  Dascllus Reticulatus  27  106
+ 11  17  Dascllus Reticulatus  27  194
+id 58 61  28  Dascllus Reticulatus  27  147
+ 36  27  Dascllus Reticulatus  23  111
+ 0  19  Ampiprion Clarkii  28  143
+ 81  20  Dascllus Reticulatus  16  129
+ 9  16  Dascllus Reticulatus  25  194
+id 59 81  20  Dascllus Reticulatus  16  129
+ 0  15  Ampiprion Clarkii  30  144
+ 5  16  Dascllus Reticulatus  25  194
+ 67  29  Dascllus Reticulatus  16  157
+id 60 6  15  Dascllus Reticulatus  24  198
+ 0  13  Ampiprion Clarkii  37  145
+ 81  20  Dascllus Reticulatus  16  129
+ 36  28  Dascllus Reticulatus  23  6
+id 61 9  15  Dascllus Reticulatus  23  203
+ 0  18  Ampiprion Clarkii  32  150
+ 80  20  Dascllus Reticulatus  16  128
+ 34  28  Dascllus Reticulatus  23  7
+id 62 3  18  Ampiprion Clarkii  32  160
+ 80  20  Dascllus Reticulatus  16  128
+ 31  26  Dascllus Reticulatus  21  14
+id 63 3  18  Ampiprion Clarkii  22  170
+id 64 4  18  Ampiprion Clarkii  22  171
+id 66 37  31  Dascllus Reticulatus  22  94
+ 81  24  Dascllus Reticulatus  24  127
+id 67 79  22  Dascllus Reticulatus  22  139
+ 42  36  Dascllus Reticulatus  22  97
+id 68 0  18  Ampiprion Clarkii  33  156
+ 80  22  Dascllus Reticulatus  22  147
+id 69 53  35  Dascllus Reticulatus  30  82
+ 90  25  Dascllus Reticulatus  24  156
+ 19  17  Dascllus Reticulatus  24  233
+id 70 89  25  Dascllus Reticulatus  24  158
+ 17  17  Dascllus Reticulatus  24  233
+id 71 82  25  Dascllus Reticulatus  24  158
+id 74 71  26  Dascllus Reticulatus  15  157
+ 88  20  Dascllus Reticulatus  17  130
+ 7  17  Dascllus Reticulatus  23  225
+id 75 71  26  Dascllus Reticulatus  15  157
+ 88  20  Dascllus Reticulatus  17  130
+ 2  17  Dascllus Reticulatus  23  227
+id 76 68  28  Dascllus Reticulatus  21  154
+ 88  20  Dascllus Reticulatus  17  130
+ 0  16  Dascllus Reticulatus  23  228
+id 77 63  30  Dascllus Reticulatus  23  153
+ 88  20  Dascllus Reticulatus  17  130
+id 78 57  28  Dascllus Reticulatus  25  151
+ 86  21  Dascllus Reticulatus  19  129
+id 79 57  28  Dascllus Reticulatus  25  151
+ 83  21  Dascllus Reticulatus  19  128
+id 80 57  28  Dascllus Reticulatus  25  151
+ 82  21  Dascllus Reticulatus  19  128
+id 81 59  29  Dascllus Reticulatus  22  152
+ 81  21  Dascllus Reticulatus  19  128
+id 82 81  21  Dascllus Reticulatus  19  128
+ 65  30  Dascllus Reticulatus  17  157
+id 83 72  31  Dascllus Reticulatus  19  154
+ 81  23  Dascllus Reticulatus  21  128
+id 84 83  29  Dascllus Reticulatus  19  154
+ 81  23  Dascllus Reticulatus  16  133
+id 85 84  20  Dascllus Reticulatus  16  133
+ 85  27  Dascllus Reticulatus  19  153
+id 86 79  29  Dascllus Reticulatus  21  146
+id 87 74  29  Dascllus Reticulatus  21  138
+id 88 43  19  Dascllus Reticulatus  31  201
+id 89 45  17  Dascllus Reticulatus  28  206
+id 90 41  20  Dascllus Reticulatus  30  209
+ 70  31  Dascllus Reticulatus  31  110
+id 91 68  31  Dascllus Reticulatus  30  114
+ 38  20  Dascllus Reticulatus  27  211
+id 92 63  31  Dascllus Reticulatus  30  119
+id 93 66  29  Dascllus Reticulatus  28  127
+id 94 62  29  Dascllus Reticulatus  28  130
+ 14  19  Dascllus Reticulatus  26  204
+id 95 55  24  Dascllus Reticulatus  21  135
+ 6  20  Dascllus Reticulatus  28  202
+id 96 154  26  Caetodon Trifascialis  55  229
+ 52  27  Dascllus Reticulatus  22  133
+ 1  18  Dascllus Reticulatus  28  201
+ 49  26  Dascllus Reticulatus  23  31
+id 97 153  29  Caetodon Trifascialis  55  222
+ 57  26  Dascllus Reticulatus  20  135
+ 49  26  Dascllus Reticulatus  23  36
+ 0  17  Dascllus Reticulatus  28  200
+id 98 64  26  Dascllus Reticulatus  20  142
+id 99 64  26  Dascllus Reticulatus  20  145
+id 100 64  26  Dascllus Reticulatus  20  146
+id 101 62  26  Dascllus Reticulatus  20  147
+ 32  24  Dascllus Reticulatus  22  55
+ 65  17  Dascllus Reticulatus  16  60
+id 102 64  26  Dascllus Reticulatus  20  147
+ 36  21  Dascllus Reticulatus  21  66
+ 66  17  Dascllus Reticulatus  16  59
+id 103 40  21  Dascllus Reticulatus  21  66
+ 66  17  Dascllus Reticulatus  16  59
+ 64  26  Dascllus Reticulatus  20  147
+id 104 44  27  Dascllus Reticulatus  26  61
+ 71  20  Dascllus Reticulatus  18  95
+ 67  26  Dascllus Reticulatus  26  145
+id 105 46  24  Dascllus Reticulatus  25  62
+ 71  20  Dascllus Reticulatus  18  96
+ 71  22  Dascllus Reticulatus  18  150
+id 106 69  20  Dascllus Reticulatus  16  98
+ 71  30  Dascllus Reticulatus  21  147
+id 107 73  28  Dascllus Reticulatus  34  143
+ 69  20  Dascllus Reticulatus  13  98
+id 108 73  28  Dascllus Reticulatus  32  143
+ 69  20  Dascllus Reticulatus  16  95
+ 58  26  Dascllus Reticulatus  14  70
+id 109 73  28  Dascllus Reticulatus  31  143
+ 69  20  Dascllus Reticulatus  17  90
+ 58  26  Dascllus Reticulatus  14  70
+id 110 73  28  Dascllus Reticulatus  31  142
+id 111 75  26  Dascllus Reticulatus  26  142
+ 63  23  Dascllus Reticulatus  23  71
+id 112 62  23  Dascllus Reticulatus  23  71
+ 75  26  Dascllus Reticulatus  26  140
+id 113 75  26  Dascllus Reticulatus  26  141
+id 114 40  29  Dascllus Reticulatus  27  57
+ 68  26  Dascllus Reticulatus  26  140
+id 120 39  34  Dascllus Reticulatus  38  55
+id 124 76  25  Dascllus Reticulatus  22  150
+id 125 73  25  Dascllus Reticulatus  22  149
+ 42  36  Dascllus Reticulatus  37  76
+id 126 44  33  Dascllus Reticulatus  34  83
+ 74  27  Dascllus Reticulatus  22  149
+id 127 46  36  Dascllus Reticulatus  34  91
+ 73  27  Dascllus Reticulatus  22  149
+id 129 79  28  Dascllus Reticulatus  30  153
+id 130 79  28  Dascllus Reticulatus  27  156
+id 131 76  30  Dascllus Reticulatus  24  164
+id 135 60  29  Dascllus Reticulatus  31  162
+id 136 57  29  Dascllus Reticulatus  31  163
+ 81  19  Dascllus Reticulatus  19  126
+id 137 62  29  Dascllus Reticulatus  29  165
+ 83  19  Dascllus Reticulatus  19  128
+ 75  13  Dascllus Reticulatus  14  83
+id 138 17  42  Dascllus Reticulatus  37  72
+ 77  24  Dascllus Reticulatus  29  176
+id 139 78  27  Dascllus Reticulatus  27  183
+id 140 78  28  Dascllus Reticulatus  24  203
+id 141 75  32  Dascllus Reticulatus  34  195
+id 143 80  26  Dascllus Reticulatus  30  176
+ 93  17  Dascllus Reticulatus  17  145
+id 144 83  26  Dascllus Reticulatus  23  173
+ 93  17  Dascllus Reticulatus  17  147
+id 145 93  17  Dascllus Reticulatus  17  147
+ 17  44  Dascllus Reticulatus  32  97
+id 146 29  42  Dascllus Reticulatus  49  83
+ 93  17  Dascllus Reticulatus  17  147
+id 147 41  42  Dascllus Reticulatus  49  62
+id 148 46  42  Dascllus Reticulatus  47  50
+id 149 46  42  Dascllus Reticulatus  47  31
+id 150 45  42  Dascllus Reticulatus  45  16
+ 87  25  Dascllus Reticulatus  24  160
+id 151 42  42  Dascllus Reticulatus  41  9
+id 152 30  48  Dascllus Reticulatus  38  1
+id 163 68  17  Dascllus Reticulatus  17  92
+id 165 69  30  Dascllus Reticulatus  32  155
+id 166 68  29  Dascllus Reticulatus  30  160
+id 167 63  29  Dascllus Reticulatus  30  167
+id 168 63  27  Dascllus Reticulatus  26  169
+id 169 68  24  Dascllus Reticulatus  26  169
+id 170 75  25  Dascllus Reticulatus  22  172
+id 177 0  22  Dascllus Reticulatus  30  283
+id 178 1  24  Dascllus Reticulatus  25  288
+ 81  25  Dascllus Reticulatus  25  154
+id 179 11  24  Dascllus Reticulatus  21  294
+ 98  11  Dascllus Reticulatus  13  161
+ 81  26  Dascllus Reticulatus  25  170
+id 180 21  27  Dascllus Reticulatus  21  297
+ 97  11  Dascllus Reticulatus  13  160
+ 74  26  Dascllus Reticulatus  25  192
+id 181 28  25  Dascllus Reticulatus  20  299
+ 95  14  Dascllus Reticulatus  15  156
+id 182 94  14  Dascllus Reticulatus  15  155
+id 183 85  26  Dascllus Reticulatus  25  173
+ 94  14  Dascllus Reticulatus  15  155
+id 184 13  21  Dascllus Reticulatus  15  5
+ 160  24  Dascllus Reticulatus  33  208
+ 87  22  Dascllus Reticulatus  25  169
+ 94  14  Dascllus Reticulatus  15  155
+id 185 84  25  Dascllus Reticulatus  30  156
+id 186 82  26  Dascllus Reticulatus  25  151
+id 198 1  14  Abudefduf Vaigiensis  25  271
+ 14  12  Ampiprion Clarkii  17  108
+ 93  17  Dascllus Reticulatus  12  146
+id 199 1  14  Abudefduf Vaigiensis  25  263
+ 93  17  Dascllus Reticulatus  12  146
+ 12  12  Ampiprion Clarkii  17  112
+id 200 1  14  Abudefduf Vaigiensis  25  251
+ 93  18  Dascllus Reticulatus  16  146
+id 201 93  18  Dascllus Reticulatus  16  146
+id 206 2  15  Ampiprion Clarkii  25  129
+ 89  21  Dascllus Reticulatus  24  151
+id 207 89  21  Dascllus Reticulatus  21  154
+ 49  20  Dascllus Reticulatus  22  229
+ 1  15  Ampiprion Clarkii  25  136
+id 208 53  16  Dascllus Reticulatus  22  229
+ 1  15  Ampiprion Clarkii  25  137
+ 88  21  Dascllus Reticulatus  21  155
+id 209 3  15  Ampiprion Clarkii  25  142
+id 210 5  15  Ampiprion Clarkii  25  147
+id 211 156  30  Caetodon Trifascialis  55  229
+id 212 156  29  Caetodon Trifascialis  54  235
+id 213 56  20  Dascllus Reticulatus  28  196
+ 156  29  Caetodon Trifascialis  54  235
+id 214 58  19  Dascllus Reticulatus  28  190
+id 215 61  19  Dascllus Reticulatus  28  181
+id 218 29  19  Dascllus Reticulatus  23  168
+id 219 29  19  Dascllus Reticulatus  23  169
+id 220 29  19  Dascllus Reticulatus  19  173
+id 221 26  18  Dascllus Reticulatus  19  177
+id 222 24  18  Dascllus Reticulatus  19  180
+ 90  20  Dascllus Reticulatus  28  149
+id 223 90  20  Dascllus Reticulatus  28  149
+id 224 90  20  Dascllus Reticulatus  28  149
+id 225 90  20  Dascllus Reticulatus  24  153
+id 226 90  20  Dascllus Reticulatus  26  151
+id 227 90  20  Dascllus Reticulatus  26  151
+ 52  25  Dascllus Reticulatus  37  3
+id 228 90  23  Dascllus Reticulatus  29  151
+ 51  25  Dascllus Reticulatus  37  3
+ 26  25  Dascllus Reticulatus  25  200
+ 3  17  Ampiprion Clarkii  23  162
+id 229 3  17  Ampiprion Clarkii  23  163
+ 30  23  Dascllus Reticulatus  21  206
+ 90  22  Dascllus Reticulatus  27  153
+ 49  25  Dascllus Reticulatus  37  4
+id 230 37  23  Dascllus Reticulatus  21  212
+ 3  17  Ampiprion Clarkii  23  169
+ 90  22  Dascllus Reticulatus  27  153
+ 49  25  Dascllus Reticulatus  37  4
+id 231 6  24  Ampiprion Clarkii  27  172
+ 40  23  Dascllus Reticulatus  25  217
+ 90  22  Dascllus Reticulatus  27  153
+ 49  25  Dascllus Reticulatus  35  4
+id 232 10  26  Ampiprion Clarkii  29  174
+ 39  24  Dascllus Reticulatus  25  222
+ 90  22  Dascllus Reticulatus  27  153
+ 49  25  Dascllus Reticulatus  35  4
+id 233 20  30  Ampiprion Clarkii  27  182
+ 90  22  Dascllus Reticulatus  27  153
+id 234 36  29  Ampiprion Clarkii  28  188
+ 90  22  Dascllus Reticulatus  27  153
+id 235 45  23  Ampiprion Clarkii  28  193
+ 90  22  Dascllus Reticulatus  27  153
+id 236 90  22  Dascllus Reticulatus  27  153
+id 237 90  22  Dascllus Reticulatus  27  153
+id 238 90  22  Dascllus Reticulatus  27  153
+id 239 90  22  Dascllus Reticulatus  27  154
+id 240 90  22  Dascllus Reticulatus  27  154
+id 241 89  22  Dascllus Reticulatus  27  153
+id 249 61  28  Dascllus Reticulatus  26  156
+id 250 55  26  Dascllus Reticulatus  26  159
+id 251 47  26  Dascllus Reticulatus  29  162
+id 252 51  28  Dascllus Reticulatus  30  159
+ 15  21  Ampiprion Clarkii  32  186
+id 253 18  21  Ampiprion Clarkii  32  178
+ 55  28  Dascllus Reticulatus  30  157
+id 254 66  28  Dascllus Reticulatus  30  153
+id 255 67  28  Dascllus Reticulatus  30  154
+id 256 65  28  Dascllus Reticulatus  30  153
+id 257 62  26  Dascllus Reticulatus  30  154
+id 258 63  28  Dascllus Reticulatus  31  151
+id 259 64  31  Dascllus Reticulatus  33  150
+id 260 71  31  Dascllus Reticulatus  33  146
+id 261 79  31  Dascllus Reticulatus  37  145
+id 262 80  30  Dascllus Reticulatus  35  147
+id 271 11  21  Ampiprion Clarkii  25  159
+id 272 12  25  Ampiprion Clarkii  33  161
+id 273 18  25  Ampiprion Clarkii  33  169
+id 274 22  22  Ampiprion Clarkii  31  176
+id 275 31  17  Ampiprion Clarkii  28  189
+id 276 31  17  Ampiprion Clarkii  33  191
+id 277 30  16  Ampiprion Clarkii  28  199

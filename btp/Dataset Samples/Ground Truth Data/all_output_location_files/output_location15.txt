@@ -1,0 +1,216 @@
+id 4 40  42  Cromis Crsura  29  6
+ 114  39  Dascllus Reticulatus  38  197
+ 140  32  Plectrogl-Pidodon Dickii  43  174
+id 5 44  42  Cromis Crsura  29  5
+ 112  38  Dascllus Reticulatus  47  169
+id 6 112  38  Dascllus Reticulatus  38  166
+id 7 47  42  Cromis Crsura  61  4
+ 131  20  Plectrogl-Pidodon Dickii  30  158
+id 8 54  39  Cromis Crsura  57  40
+id 9 60  39  Cromis Crsura  57  57
+id 10 59  39  Cromis Crsura  42  77
+ 28  19  Dascllus Reticulatus  26  134
+ 105  39  Dascllus Reticulatus  38  142
+ 140  86  Plectrogl-Pidodon Dickii  69  5
+id 11 65  37  Cromis Crsura  28  85
+ 24  19  Dascllus Reticulatus  26  143
+ 104  41  Dascllus Reticulatus  47  148
+ 152  87  Plectrogl-Pidodon Dickii  76  12
+id 12 72  34  Cromis Crsura  28  85
+ 21  19  Dascllus Reticulatus  26  150
+ 103  41  Dascllus Reticulatus  49  148
+ 153  86  Plectrogl-Pidodon Dickii  76  14
+id 13 82  29  Cromis Crsura  21  84
+ 20  20  Dascllus Reticulatus  32  158
+ 108  38  Dascllus Reticulatus  55  150
+ 155  83  Plectrogl-Pidodon Dickii  79  19
+ 86  22  Dascllus Reticulatus  29  185
+id 14 23  20  Dascllus Reticulatus  27  174
+ 111  35  Dascllus Reticulatus  49  156
+ 171  68  Plectrogl-Pidodon Dickii  84  26
+ 75  22  Dascllus Reticulatus  29  199
+id 15 171  68  Plectrogl-Pidodon Dickii  94  28
+ 111  35  Dascllus Reticulatus  44  162
+ 69  22  Dascllus Reticulatus  29  204
+id 16 111  35  Dascllus Reticulatus  37  167
+ 63  17  Dascllus Reticulatus  30  213
+ 178  61  Plectrogl-Pidodon Dickii  92  33
+ 25  22  Dascllus Reticulatus  25  185
+id 17 108  34  Dascllus Reticulatus  30  168
+ 22  22  Dascllus Reticulatus  24  200
+ 56  17  Dascllus Reticulatus  33  221
+id 18 20  22  Dascllus Reticulatus  31  202
+ 53  17  Dascllus Reticulatus  33  226
+ 108  34  Dascllus Reticulatus  27  168
+id 19 14  19  Dascllus Reticulatus  31  217
+ 46  17  Dascllus Reticulatus  30  240
+ 109  34  Dascllus Reticulatus  23  166
+id 20 16  24  Dascllus Reticulatus  22  231
+ 38  18  Dascllus Reticulatus  32  252
+ 108  35  Dascllus Reticulatus  28  159
+id 21 108  35  Dascllus Reticulatus  28  159
+ 24  24  Dascllus Reticulatus  22  230
+ 42  30  Mripristis Kuntee  41  278
+id 22 108  35  Dascllus Reticulatus  37  158
+id 23 107  39  Dascllus Reticulatus  40  162
+ 30  42  Cromis Crsura  41  10
+id 24 107  39  Dascllus Reticulatus  40  167
+ 27  40  Cromis Crsura  36  21
+id 25 106  39  Dascllus Reticulatus  46  178
+id 26 101  39  Dascllus Reticulatus  48  190
+id 27 41  46  Cromis Crsura  44  59
+ 52  46  Dascllus Reticulatus  22  109
+ 101  34  Dascllus Reticulatus  48  195
+id 28 67  43  Dascllus Reticulatus  38  112
+ 96  37  Dascllus Reticulatus  44  200
+id 29 57  42  Dascllus Reticulatus  52  124
+ 93  38  Dascllus Reticulatus  46  201
+id 30 47  47  Dascllus Reticulatus  56  138
+ 86  35  Dascllus Reticulatus  52  201
+id 31 9  52  Dascllus Reticulatus  57  173
+ 79  40  Dascllus Reticulatus  61  208
+id 32 80  37  Dascllus Reticulatus  52  218
+id 33 79  37  Dascllus Reticulatus  48  223
+id 34 78  37  Dascllus Reticulatus  48  229
+id 35 76  32  Dascllus Reticulatus  45  241
+ 1  47  Cromis Crsura  59  85
+id 36 72  37  Dascllus Reticulatus  45  247
+ -1  54  Cromis Crsura  66  82
+id 37 67  31  Dascllus Reticulatus  54  253
+ -1  49  Cromis Crsura  64  91
+id 38 65  31  Dascllus Reticulatus  47  270
+ -1  43  Cromis Crsura  64  91
+id 39 65  31  Dascllus Reticulatus  47  270
+ 0  36  Cromis Crsura  69  88
+id 40 65  31  Dascllus Reticulatus  44  273
+id 41 62  37  Dascllus Reticulatus  44  273
+id 42 62  37  Dascllus Reticulatus  44  273
+id 43 72  43  Dascllus Reticulatus  44  274
+id 44 81  40  Dascllus Reticulatus  44  274
+id 45 84  41  Dascllus Reticulatus  43  275
+id 46 79  38  Dascllus Reticulatus  38  280
+id 47 73  32  Dascllus Reticulatus  38  280
+id 48 73  32  Dascllus Reticulatus  38  280
+id 49 72  32  Dascllus Reticulatus  35  283
+ 1  32  Dascllus Reticulatus  36  283
+id 50 68  32  Dascllus Reticulatus  29  289
+id 51 70  34  Dascllus Reticulatus  32  286
+id 52 79  41  Dascllus Reticulatus  36  283
+id 53 0  57  Cromis Crsura  70  103
+ 98  72  Cromis Crsura  59  5
+ 95  39  Dascllus Reticulatus  33  282
+id 54 9  60  Cromis Crsura  73  111
+ 97  79  Cromis Crsura  65  3
+ 106  32  Dascllus Reticulatus  33  282
+id 55 29  58  Cromis Crsura  70  125
+ 106  70  Cromis Crsura  62  7
+ 112  29  Dascllus Reticulatus  33  284
+id 56 47  46  Cromis Crsura  57  157
+ 125  48  Cromis Crsura  34  25
+id 57 47  46  Cromis Crsura  60  164
+id 58 36  44  Cromis Crsura  52  181
+id 59 12  55  Cromis Crsura  62  180
+id 60 5  52  Cromis Crsura  53  189
+id 61 0  45  Cromis Crsura  52  188
+id 62 0  40  Cromis Crsura  75  180
+id 63 0  37  Cromis Crsura  77  183
+id 64 1  44  Cromis Crsura  77  206
+id 65 120  47  Cromis Crsura  43  228
+id 66 120  47  Cromis Crsura  43  228
+id 67 120  47  Cromis Crsura  43  228
+id 68 120  47  Cromis Crsura  43  228
+ 31  34  Dascllus Reticulatus  36  80
+id 69 26  34  Dascllus Reticulatus  36  82
+ 120  47  Cromis Crsura  43  228
+id 70 120  47  Cromis Crsura  43  228
+id 71 120  47  Cromis Crsura  43  228
+id 72 120  47  Cromis Crsura  43  228
+id 92 98  32  Dascllus Reticulatus  50  260
+id 93 93  34  Dascllus Reticulatus  47  244
+id 97 72  22  Dascllus Reticulatus  32  160
+id 98 63  21  Dascllus Reticulatus  29  141
+id 99 54  24  Dascllus Reticulatus  33  128
+id 100 15  39  Cromis Crsura  43  45
+ 48  21  Dascllus Reticulatus  33  101
+id 101 33  34  Cromis Crsura  41  66
+id 102 33  33  Cromis Crsura  40  73
+id 103 24  34  Cromis Crsura  35  88
+id 106 4  29  Cromis Crsura  31  126
+id 107 7  34  Cromis Crsura  31  140
+id 108 7  34  Cromis Crsura  31  140
+id 112 15  38  Cromis Crsura  58  104
+id 113 8  47  Cromis Crsura  33  92
+id 114 3  46  Cromis Crsura  25  89
+id 116 14  25  Dascllus Reticulatus  24  143
+id 117 17  25  Dascllus Reticulatus  24  143
+id 118 24  24  Dascllus Reticulatus  26  146
+id 119 31  19  Dascllus Reticulatus  24  154
+id 120 29  19  Dascllus Reticulatus  24  160
+ 55  16  Dascllus Reticulatus  24  163
+ 10  13  Dascllus Reticulatus  25  248
+id 121 25  19  Dascllus Reticulatus  25  165
+ 54  16  Dascllus Reticulatus  24  171
+ 2  13  Dascllus Reticulatus  25  256
+id 122 21  19  Dascllus Reticulatus  25  174
+ 52  16  Dascllus Reticulatus  24  183
+id 123 18  19  Dascllus Reticulatus  25  178
+ 52  16  Dascllus Reticulatus  23  187
+id 124 10  19  Dascllus Reticulatus  29  185
+ 53  16  Dascllus Reticulatus  23  185
+id 125 1  18  Dascllus Reticulatus  32  193
+ 55  16  Dascllus Reticulatus  23  193
+id 126 0  17  Dascllus Reticulatus  35  195
+ 56  16  Dascllus Reticulatus  23  196
+id 139 19  20  Dascllus Reticulatus  30  47
+id 140 18  17  Dascllus Reticulatus  28  34
+ 0  16  Dascllus Reticulatus  29  264
+id 141 16  17  Dascllus Reticulatus  24  30
+ 0  16  Dascllus Reticulatus  29  270
+id 142 0  16  Dascllus Reticulatus  28  278
+id 189 177  43  Dascllus Reticulatus  65  191
+id 190 172  43  Dascllus Reticulatus  44  182
+id 192 167  37  Dascllus Reticulatus  42  176
+id 193 167  40  Dascllus Reticulatus  48  178
+id 194 173  36  Dascllus Reticulatus  37  189
+id 213 1  41  Cromis Crsura  45  27
+id 214 1  41  Cromis Crsura  50  31
+id 215 5  33  Cromis Crsura  54  31
+id 216 3  30  Cromis Crsura  50  33
+id 217 0  31  Cromis Crsura  45  36
+id 225 168  71  Plectrogl-Pidodon Dickii  46  87
+ 178  50  Dascllus Reticulatus  70  214
+id 226 158  68  Plectrogl-Pidodon Dickii  54  78
+ 172  50  Dascllus Reticulatus  76  196
+id 227 141  51  Plectrogl-Pidodon Dickii  57  75
+ 166  50  Dascllus Reticulatus  69  174
+id 228 139  46  Plectrogl-Pidodon Dickii  71  74
+ 164  52  Dascllus Reticulatus  73  164
+id 229 126  51  Plectrogl-Pidodon Dickii  63  72
+ 159  45  Dascllus Reticulatus  70  142
+ 146  52  Dascllus Reticulatus  43  275
+id 230 116  61  Plectrogl-Pidodon Dickii  57  87
+ 156  43  Dascllus Reticulatus  66  128
+ 127  52  Dascllus Reticulatus  57  243
+id 231 116  67  Plectrogl-Pidodon Dickii  57  86
+ 157  43  Dascllus Reticulatus  54  125
+ 120  48  Dascllus Reticulatus  63  227
+ 111  60  Plectrogl-Pidodon Dickii  65  21
+id 232 115  41  Dascllus Reticulatus  53  206
+id 233 113  35  Dascllus Reticulatus  37  191
+id 234 113  35  Dascllus Reticulatus  32  186
+id 235 114  35  Dascllus Reticulatus  28  176
+id 236 117  29  Dascllus Reticulatus  29  164
+id 238 118  29  Dascllus Reticulatus  39  137
+id 239 119  26  Dascllus Reticulatus  28  127
+id 240 119  26  Dascllus Reticulatus  20  125
+id 251 3  40  Cromis Crsura  35  26
+id 252 10  42  Cromis Crsura  36  28
+id 253 28  27  Cromis Crsura  25  39
+id 264 2  31  Cromis Crsura  37  16
+id 265 15  31  Cromis Crsura  37  31
+id 266 25  35  Cromis Crsura  34  45
+id 267 33  32  Cromis Crsura  29  56
+id 270 52  30  Cromis Crsura  30  65
+id 271 31  42  Dascllus Reticulatus  29  88
+id 272 63  33  Dascllus Reticulatus  29  94
+id 273 76  25  Dascllus Reticulatus  29  100

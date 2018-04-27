@@ -1,0 +1,316 @@
+framer5_0  	       233         68         Dasc llus Aruanus         87         322  
+framer5_1  	       230         68         Dasc llus Aruanus         87         319  
+framer5_2  	       231         68         Dasc llus Aruanus         87         342  
+framer5_3  	       230         68         Dasc llus Aruanus         70         356  
+framer5_4  	       231         68         Dasc llus Aruanus         60         367  
+framer5_5  	       232         68         Dasc llus Aruanus         60         372  
+framer5_6  	       234         68         Dasc llus Aruanus         60         380  
+framer5_7  	       234         68         Dasc llus Aruanus         60         385  
+framer5_8  	       235         68         Dasc llus Aruanus         60         391  
+framer5_9  	       237         76         Dasc llus Aruanus         60         394  
+framer5_10  	       240         76         Dasc llus Aruanus         60         397  
+framer5_11  	       251         84         Dasc llus Aruanus         51         410  
+framer5_12  	       262         84         Dasc llus Aruanus         51         413  
+framer5_13  	       263         84         Dasc llus Aruanus         51         414  
+framer5_14  	       270         84         Dasc llus Aruanus         51         414  
+framer5_15  	       278         84         Dasc llus Aruanus         51         415  
+framer5_16  	       280         84         Dasc llus Aruanus         51         413  
+framer5_17  	       291         84         Dasc llus Aruanus         51         409  
+framer5_18  	       292         84         Dasc llus Aruanus         40         410  
+framer5_19  	       294         84         Dasc llus Aruanus         40         408  
+framer5_20  	       296         84         Dasc llus Aruanus         40         404  
+framer5_21  	       298         84         Dasc llus Aruanus         40         402  
+framer5_22  	       279         126         Dasc llus Aruanus         57         386  
+framer5_23  	       280         140         Dasc llus Aruanus         74         370  
+framer5_24  	       281         160         Dasc llus Aruanus         97         348  
+framer5_25  	       282         168         Dasc llus Aruanus         106         340  
+framer5_26  	       301         174         Dasc llus Aruanus         109         311  
+framer5_27  	       306         174         Dasc llus Aruanus         109         299  
+framer5_28  	       310         174         Dasc llus Aruanus         109         268  
+framer5_29  	       312         174         Dasc llus Aruanus         115         249  
+framer5_30  	       313         174         Dasc llus Aruanus         188         177  
+framer5_31  	       314         174         Dasc llus Aruanus         229         119  
+framer5_32  	       315         174         Dasc llus Aruanus         296         2  
+framer5_33  	       316         174         Dasc llus Aruanus         232         3  
+framer5_374  	       346         45         Plectrogl -P idodon Dickii         38         273  
+framer5_375  	       349         45         Plectrogl -P idodon Dickii         38         282  
+framer5_376  	       352         50         Plectrogl -P idodon Dickii         38         284  
+framer5_377  	       354         50         Plectrogl -P idodon Dickii         38         293  
+framer5_378  	       358         50         Plectrogl -P idodon Dickii         38         295  
+framer5_379  	       360         47         Plectrogl -P idodon Dickii         33         305  
+framer5_380  	       360         47         Plectrogl -P idodon Dickii         33         307  
+framer5_381  	       361         47         Plectrogl -P idodon Dickii         33         311  
+framer5_382  	       362         42         Plectrogl -P idodon Dickii         31         315  
+framer5_383  	       362         42         Plectrogl -P idodon Dickii         31         317  
+framer5_384  	       363         42         Plectrogl -P idodon Dickii         31         318  
+framer5_385  	       369         42         Plectrogl -P idodon Dickii         31         327  
+framer5_386  	       368         42         Plectrogl -P idodon Dickii         31         329  
+framer5_387  	       370         42         Plectrogl -P idodon Dickii         31         331  
+framer5_388  	       370         42         Plectrogl -P idodon Dickii         30         332  
+framer5_389  	       372         41         Plectrogl -P idodon Dickii         29         336  
+framer5_390  	       374         41         Plectrogl -P idodon Dickii         29         338  
+       335         50         Plectrogl -P idodon Dickii         35         270  
+framer5_391  	       336         50         Plectrogl -P idodon Dickii         35         271  
+       375         41         Plectrogl -P idodon Dickii         29         339  
+framer5_392  	       337         50         Plectrogl -P idodon Dickii         35         272  
+       376         41         Plectrogl -P idodon Dickii         29         340  
+framer5_393  	       338         50         Plectrogl -P idodon Dickii         35         273  
+       377         41         Plectrogl -P idodon Dickii         29         341  
+framer5_394  	       339         50         Plectrogl -P idodon Dickii         35         274  
+       378         41         Plectrogl -P idodon Dickii         29         342  
+framer5_395  	       378         41         Plectrogl -P idodon Dickii         29         350  
+       340         50         Plectrogl -P idodon Dickii         35         275  
+framer5_396  	       379         41         Plectrogl -P idodon Dickii         29         351  
+       341         50         Plectrogl -P idodon Dickii         35         276  
+framer5_397  	       342         50         Plectrogl -P idodon Dickii         35         277  
+       380         41         Plectrogl -P idodon Dickii         29         352  
+framer5_398  	       340         50         Plectrogl -P idodon Dickii         35         286  
+       381         41         Plectrogl -P idodon Dickii         29         353  
+framer5_399  	       341         50         Plectrogl -P idodon Dickii         35         287  
+       382         41         Plectrogl -P idodon Dickii         29         354  
+framer5_400  	       342         50         Plectrogl -P idodon Dickii         35         288  
+       383         41         Plectrogl -P idodon Dickii         29         355  
+framer5_401  	       343         50         Plectrogl -P idodon Dickii         35         289  
+       384         41         Plectrogl -P idodon Dickii         29         356  
+framer5_402  	       381         41         Plectrogl -P idodon Dickii         29         360  
+       344         50         Plectrogl -P idodon Dickii         35         290  
+framer5_403  	       349         43         Plectrogl -P idodon Dickii         31         295  
+framer5_404  	       350         43         Plectrogl -P idodon Dickii         31         296  
+framer5_405  	       350         43         Plectrogl -P idodon Dickii         32         296  
+framer5_406  	       350         43         Plectrogl -P idodon Dickii         32         298  
+framer5_407  	       351         43         Plectrogl -P idodon Dickii         32         299  
+framer5_408  	       350         43         Plectrogl -P idodon Dickii         34         297  
+framer5_409  	       351         43         Plectrogl -P idodon Dickii         34         298  
+framer5_410  	       353         39         Plectrogl -P idodon Dickii         33         299  
+framer5_411  	       354         40         Plectrogl -P idodon Dickii         32         301  
+       373         54         Plectrogl -P idodon Dickii         37         363  
+framer5_412  	       355         39         Plectrogl -P idodon Dickii         32         301  
+       372         54         Plectrogl -P idodon Dickii         37         362  
+framer5_413  	       356         38         Plectrogl -P idodon Dickii         31         303  
+       374         54         Plectrogl -P idodon Dickii         37         366  
+framer5_414  	       357         38         Plectrogl -P idodon Dickii         31         304  
+       373         54         Plectrogl -P idodon Dickii         37         365  
+framer5_415  	       358         38         Plectrogl -P idodon Dickii         31         305  
+       370         54         Plectrogl -P idodon Dickii         37         367  
+framer5_416  	       359         38         Plectrogl -P idodon Dickii         31         306  
+       369         54         Plectrogl -P idodon Dickii         37         366  
+framer5_417  	       360         38         Plectrogl -P idodon Dickii         31         307  
+       368         54         Plectrogl -P idodon Dickii         37         365  
+framer5_418  	       361         38         Plectrogl -P idodon Dickii         31         308  
+       370         54         Plectrogl -P idodon Dickii         37         366  
+framer5_419  	       363         38         Plectrogl -P idodon Dickii         31         310  
+       373         54         Plectrogl -P idodon Dickii         37         370  
+framer5_420  	       363         38         Plectrogl -P idodon Dickii         31         310  
+       372         54         Plectrogl -P idodon Dickii         37         369  
+framer5_421  	       364         38         Plectrogl -P idodon Dickii         31         311  
+       371         54         Plectrogl -P idodon Dickii         37         368  
+framer5_422  	       365         38         Plectrogl -P idodon Dickii         31         312  
+       370         54         Plectrogl -P idodon Dickii         37         367  
+framer5_423  	       365         38         Plectrogl -P idodon Dickii         31         312  
+       369         54         Plectrogl -P idodon Dickii         37         366  
+framer5_424  	       366         38         Plectrogl -P idodon Dickii         31         313  
+       370         54         Plectrogl -P idodon Dickii         37         367  
+framer5_425  	       368         38         Plectrogl -P idodon Dickii         39         307  
+       372         54         Plectrogl -P idodon Dickii         37         369  
+framer5_426  	       366         41         Plectrogl -P idodon Dickii         43         304  
+       373         48         Plectrogl -P idodon Dickii         37         370  
+framer5_427  	       367         41         Plectrogl -P idodon Dickii         43         305  
+       374         48         Plectrogl -P idodon Dickii         37         371  
+framer5_428  	       366         44         Plectrogl -P idodon Dickii         43         303  
+       374         48         Plectrogl -P idodon Dickii         37         371  
+framer5_429  	       367         44         Plectrogl -P idodon Dickii         43         304  
+       373         48         Plectrogl -P idodon Dickii         37         369  
+framer5_430  	       368         44         Plectrogl -P idodon Dickii         43         305  
+       371         48         Plectrogl -P idodon Dickii         37         368  
+framer5_431  	       366         44         Plectrogl -P idodon Dickii         43         311  
+       372         48         Plectrogl -P idodon Dickii         37         369  
+framer5_432  	       367         44         Plectrogl -P idodon Dickii         43         312  
+       373         48         Plectrogl -P idodon Dickii         37         370  
+framer5_433  	       368         44         Plectrogl -P idodon Dickii         43         313  
+       373         48         Plectrogl -P idodon Dickii         37         369  
+framer5_434  	       369         44         Plectrogl -P idodon Dickii         43         314  
+       374         48         Plectrogl -P idodon Dickii         20         370  
+framer5_435  	       378         36         Plectrogl -P idodon Dickii         43         315  
+       370         48         Plectrogl -P idodon Dickii         20         368  
+framer5_436  	       379         36         Plectrogl -P idodon Dickii         43         316  
+       374         48         Plectrogl -P idodon Dickii         20         367  
+framer5_437  	       381         32         Plectrogl -P idodon Dickii         37         320  
+       378         43         Plectrogl -P idodon Dickii         20         365  
+framer5_438  	       382         32         Plectrogl -P idodon Dickii         37         321  
+framer5_467  	       357         48         Plectrogl -P idodon Dickii         30         326  
+framer5_468  	       362         42         Plectrogl -P idodon Dickii         30         324  
+framer5_469  	       361         44         Plectrogl -P idodon Dickii         38         323  
+framer5_470  	       360         44         Plectrogl -P idodon Dickii         38         322  
+framer5_471  	       361         44         Plectrogl -P idodon Dickii         38         323  
+framer5_472  	       361         47         Plectrogl -P idodon Dickii         38         322  
+framer5_473  	       362         51         Plectrogl -P idodon Dickii         38         326  
+framer5_474  	       361         51         Plectrogl -P idodon Dickii         38         327  
+framer5_475  	       360         51         Plectrogl -P idodon Dickii         38         326  
+framer5_476  	       359         51         Plectrogl -P idodon Dickii         38         325  
+framer5_477  	       360         51         Plectrogl -P idodon Dickii         38         326  
+framer5_478  	       362         51         Plectrogl -P idodon Dickii         38         328  
+framer5_479  	       363         51         Plectrogl -P idodon Dickii         38         326  
+framer5_480  	       362         51         Plectrogl -P idodon Dickii         38         327  
+framer5_481  	       362         51         Plectrogl -P idodon Dickii         38         325  
+framer5_482  	       363         51         Plectrogl -P idodon Dickii         38         326  
+framer5_483  	       364         51         Plectrogl -P idodon Dickii         38         327  
+framer5_484  	       362         51         Plectrogl -P idodon Dickii         38         325  
+framer5_485  	       363         51         Plectrogl -P idodon Dickii         38         326  
+framer5_486  	       364         51         Plectrogl -P idodon Dickii         38         327  
+framer5_487  	       365         47         Plectrogl -P idodon Dickii         35         328  
+framer5_488  	       366         47         Plectrogl -P idodon Dickii         35         329  
+framer5_489  	       365         47         Plectrogl -P idodon Dickii         35         327  
+framer5_490  	       366         47         Plectrogl -P idodon Dickii         35         328  
+framer5_491  	       364         47         Plectrogl -P idodon Dickii         35         323  
+framer5_492  	       365         47         Plectrogl -P idodon Dickii         35         324  
+framer5_493  	       366         47         Plectrogl -P idodon Dickii         35         325  
+framer5_494  	       367         47         Plectrogl -P idodon Dickii         35         326  
+framer5_549  	       363         38         Plectrogl -P idodon Dickii         42         318  
+framer5_550  	       364         38         Plectrogl -P idodon Dickii         42         319  
+framer5_551  	       361         38         Plectrogl -P idodon Dickii         42         319  
+framer5_552  	       362         38         Plectrogl -P idodon Dickii         42         320  
+framer5_553  	       359         38         Plectrogl -P idodon Dickii         42         319  
+framer5_554  	       357         38         Plectrogl -P idodon Dickii         42         313  
+framer5_555  	       355         38         Plectrogl -P idodon Dickii         42         313  
+framer5_556  	       355         38         Plectrogl -P idodon Dickii         42         309  
+framer5_557  	       352         41         Plectrogl -P idodon Dickii         47         301  
+framer5_558  	       353         41         Plectrogl -P idodon Dickii         47         300  
+framer5_563  	       365         57         Plectrogl -P idodon Dickii         46         368  
+       343         55         Plectrogl -P idodon Dickii         46         294  
+       329         38         Plectrogl -P idodon Dickii         28         259  
+framer5_564  	       330         38         Plectrogl -P idodon Dickii         28         260  
+       344         55         Plectrogl -P idodon Dickii         46         295  
+       368         57         Plectrogl -P idodon Dickii         46         372  
+framer5_565  	       369         57         Plectrogl -P idodon Dickii         46         373  
+       345         48         Plectrogl -P idodon Dickii         41         301  
+       331         40         Plectrogl -P idodon Dickii         31         258  
+framer5_566  	       370         57         Plectrogl -P idodon Dickii         46         374  
+       344         48         Plectrogl -P idodon Dickii         45         304  
+       332         40         Plectrogl -P idodon Dickii         33         257  
+framer5_567  	       368         57         Plectrogl -P idodon Dickii         46         378  
+       340         48         Plectrogl -P idodon Dickii         45         305  
+       333         40         Plectrogl -P idodon Dickii         33         258  
+framer5_568  	       334         40         Plectrogl -P idodon Dickii         33         259  
+       341         48         Plectrogl -P idodon Dickii         45         306  
+       369         57         Plectrogl -P idodon Dickii         46         379  
+framer5_569  	       374         49         Plectrogl -P idodon Dickii         39         391  
+       342         48         Plectrogl -P idodon Dickii         45         307  
+       338         40         Plectrogl -P idodon Dickii         33         254  
+framer5_570  	       375         48         Plectrogl -P idodon Dickii         36         396  
+       324         48         Plectrogl -P idodon Dickii         45         311  
+       337         40         Plectrogl -P idodon Dickii         33         247  
+framer5_571  	       376         48         Plectrogl -P idodon Dickii         47         397  
+       321         42         Plectrogl -P idodon Dickii         45         317  
+       342         40         Plectrogl -P idodon Dickii         33         244  
+framer5_572  	       383         39         Plectrogl -P idodon Dickii         46         409  
+       310         42         Plectrogl -P idodon Dickii         45         329  
+       344         40         Plectrogl -P idodon Dickii         33         235  
+framer5_573  	       383         39         Plectrogl -P idodon Dickii         56         413  
+       306         43         Plectrogl -P idodon Dickii         59         329  
+       348         40         Plectrogl -P idodon Dickii         33         230  
+framer5_574  	       350         40         Plectrogl -P idodon Dickii         33         225  
+       301         43         Plectrogl -P idodon Dickii         59         335  
+       368         39         Plectrogl -P idodon Dickii         56         430  
+framer5_575  	       361         42         Plectrogl -P idodon Dickii         63         426  
+       294         43         Plectrogl -P idodon Dickii         59         335  
+       349         40         Plectrogl -P idodon Dickii         33         222  
+framer5_576  	       337         42         Plectrogl -P idodon Dickii         63         437  
+       290         43         Plectrogl -P idodon Dickii         59         345  
+framer5_577  	       291         43         Plectrogl -P idodon Dickii         59         346  
+       328         42         Plectrogl -P idodon Dickii         63         437  
+framer5_578  	       291         43         Plectrogl -P idodon Dickii         59         352  
+       324         44         Plectrogl -P idodon Dickii         63         437  
+       335         48         Plectrogl -P idodon Dickii         36         201  
+framer5_579  	       341         48         Plectrogl -P idodon Dickii         36         207  
+       297         43         Plectrogl -P idodon Dickii         45         372  
+       318         44         Plectrogl -P idodon Dickii         63         443  
+       202         23         Dasc llus Aruanus         23         151  
+framer5_580  	       311         49         Plectrogl -P idodon Dickii         63         441  
+       295         43         Plectrogl -P idodon Dickii         45         380  
+       334         48         Plectrogl -P idodon Dickii         36         220  
+       198         23         Dasc llus Aruanus         23         143  
+framer5_581  	       312         49         Plectrogl -P idodon Dickii         63         442  
+       296         43         Plectrogl -P idodon Dickii         45         381  
+       335         48         Plectrogl -P idodon Dickii         51         221  
+       199         23         Dasc llus Aruanus         23         144  
+framer5_582  	       313         49         Plectrogl -P idodon Dickii         51         455  
+       299         40         Plectrogl -P idodon Dickii         35         392  
+       335         38         Plectrogl -P idodon Dickii         33         242  
+       200         23         Dasc llus Aruanus         23         145  
+framer5_583  	       314         49         Plectrogl -P idodon Dickii         51         456  
+       300         40         Plectrogl -P idodon Dickii         35         393  
+       335         47         Plectrogl -P idodon Dickii         43         243  
+       199         23         Dasc llus Aruanus         23         137  
+framer5_584  	       338         40         Plectrogl -P idodon Dickii         35         256  
+       315         49         Plectrogl -P idodon Dickii         51         457  
+       301         40         Plectrogl -P idodon Dickii         35         394  
+       200         23         Dasc llus Aruanus         23         138  
+framer5_585  	       339         50         Plectrogl -P idodon Dickii         58         257  
+       302         40         Plectrogl -P idodon Dickii         35         395  
+       316         49         Plectrogl -P idodon Dickii         51         458  
+       198         23         Dasc llus Aruanus         23         133  
+framer5_586  	       340         42         Plectrogl -P idodon Dickii         35         281  
+       303         40         Plectrogl -P idodon Dickii         35         396  
+       317         49         Plectrogl -P idodon Dickii         51         459  
+       197         23         Dasc llus Aruanus         23         131  
+framer5_587  	       325         50         Plectrogl -P idodon Dickii         50         293  
+       295         40         Plectrogl -P idodon Dickii         35         398  
+       318         44         Plectrogl -P idodon Dickii         37         472  
+       198         23         Dasc llus Aruanus         23         132  
+framer5_588  	       323         50         Plectrogl -P idodon Dickii         50         305  
+       296         40         Plectrogl -P idodon Dickii         35         399  
+       327         36         Plectrogl -P idodon Dickii         37         473  
+       197         23         Dasc llus Aruanus         23         129  
+framer5_589  	       313         50         Plectrogl -P idodon Dickii         50         330  
+       291         40         Plectrogl -P idodon Dickii         35         409  
+       198         23         Dasc llus Aruanus         23         130  
+framer5_590  	       310         50         Plectrogl -P idodon Dickii         50         347  
+       299         40         Plectrogl -P idodon Dickii         35         418  
+       199         23         Dasc llus Aruanus         23         126  
+framer5_591  	       297         50         Plectrogl -P idodon Dickii         50         360  
+       304         53         Plectrogl -P idodon Dickii         24         480  
+       197         23         Dasc llus Aruanus         23         129  
+framer5_592  	       292         50         Plectrogl -P idodon Dickii         26         379  
+       298         53         Plectrogl -P idodon Dickii         24         480  
+       196         23         Dasc llus Aruanus         23         127  
+framer5_593  	       293         50         Plectrogl -P idodon Dickii         26         380  
+       300         53         Plectrogl -P idodon Dickii         24         478  
+       197         23         Dasc llus Aruanus         23         128  
+framer5_594  	       301         53         Plectrogl -P idodon Dickii         24         479  
+       291         50         Plectrogl -P idodon Dickii         26         384  
+       198         23         Dasc llus Aruanus         23         129  
+framer5_595  	       302         53         Plectrogl -P idodon Dickii         24         480  
+       196         23         Dasc llus Aruanus         23         127  
+framer5_596  	       303         53         Plectrogl -P idodon Dickii         24         481  
+       185         27         Dasc llus Aruanus         25         456  
+framer5_597  	       184         27         Dasc llus Aruanus         25         458  
+       304         53         Plectrogl -P idodon Dickii         24         482  
+framer5_598  	       190         27         Dasc llus Aruanus         25         465  
+framer5_599  	       193         27         Dasc llus Aruanus         25         471  
+framer5_600  	       200         27         Dasc llus Aruanus         25         474  
+framer5_601  	       203         27         Dasc llus Aruanus         25         478  
+framer5_602  	       208         27         Dasc llus Aruanus         25         485  
+framer5_603  	       212         27         Dasc llus Aruanus         25         486  
+framer5_604  	       278         60         Plectrogl -P idodon Dickii         41         478  
+       218         27         Dasc llus Aruanus         25         496  
+framer5_605  	       283         44         Plectrogl -P idodon Dickii         41         373  
+       281         53         Plectrogl -P idodon Dickii         37         479  
+       223         27         Dasc llus Aruanus         25         496  
+framer5_606  	       229         27         Dasc llus Aruanus         25         500  
+       274         53         Plectrogl -P idodon Dickii         37         475  
+       283         44         Plectrogl -P idodon Dickii         51         369  
+framer5_607  	       284         44         Plectrogl -P idodon Dickii         51         370  
+       276         53         Plectrogl -P idodon Dickii         37         470  
+       233         27         Dasc llus Aruanus         25         501  
+framer5_608  	       234         27         Dasc llus Aruanus         25         502  
+       272         53         Plectrogl -P idodon Dickii         37         471  
+       285         44         Plectrogl -P idodon Dickii         51         375  
+framer5_609  	       283         44         Plectrogl -P idodon Dickii         51         386  
+       272         53         Plectrogl -P idodon Dickii         37         468  
+       235         27         Dasc llus Aruanus         25         503  
+framer5_610  	       236         27         Dasc llus Aruanus         25         504  
+       273         53         Plectrogl -P idodon Dickii         37         469  
+       283         44         Plectrogl -P idodon Dickii         51         392  
+framer5_611  	       285         44         Plectrogl -P idodon Dickii         51         396  
+       274         53         Plectrogl -P idodon Dickii         37         470  
+       232         27         Dasc llus Aruanus         25         509  

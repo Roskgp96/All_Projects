@@ -1,0 +1,401 @@
+id 1 118  23  Mripristis Kuntee  33  157
+id 2 121  21  Mripristis Kuntee  24  164
+id 3 122  20  Mripristis Kuntee  23  166
+id 4 122  20  Mripristis Kuntee  23  167
+id 5 124  20  Mripristis Kuntee  23  167
+id 6 125  20  Mripristis Kuntee  23  168
+id 7 129  17  Mripristis Kuntee  22  173
+id 8 130  22  Mripristis Kuntee  35  167
+id 9 130  22  Mripristis Kuntee  35  167
+id 10 130  22  Mripristis Kuntee  35  167
+id 11 134  22  Mripristis Kuntee  31  176
+id 12 136  22  Mripristis Kuntee  31  177
+id 13 136  22  Mripristis Kuntee  31  179
+id 14 138  21  Mripristis Kuntee  25  188
+id 25 1  16  Abudefduf Vaigiensis  20  266
+id 28 18  21  Abudefduf Vaigiensis  22  283
+ 46  20  Dascllus Reticulatus  25  247
+ 33  16  Dascllus Reticulatus  16  104
+id 29 29  21  Abudefduf Vaigiensis  22  291
+ 46  20  Dascllus Reticulatus  28  252
+ 39  16  Dascllus Reticulatus  16  107
+id 30 49  20  Dascllus Reticulatus  28  259
+ 43  16  Dascllus Reticulatus  16  105
+id 31 50  20  Dascllus Reticulatus  28  259
+id 32 54  20  Dascllus Reticulatus  26  264
+id 33 58  22  Dascllus Reticulatus  26  266
+ 215  20  Plectrogl-Pidodon Dickii  26  288
+id 34 62  22  Dascllus Reticulatus  26  268
+ 215  20  Plectrogl-Pidodon Dickii  26  288
+id 35 69  25  Dascllus Reticulatus  20  274
+ 216  19  Plectrogl-Pidodon Dickii  26  288
+id 36 217  19  Plectrogl-Pidodon Dickii  26  288
+ 75  29  Dascllus Reticulatus  20  274
+id 37 80  29  Dascllus Reticulatus  20  274
+ 217  19  Plectrogl-Pidodon Dickii  22  292
+ 145  15  Abudefduf Vaigiensis  30  179
+id 38 145  15  Abudefduf Vaigiensis  30  188
+ 86  29  Dascllus Reticulatus  20  274
+id 39 90  25  Dascllus Reticulatus  20  272
+ 0  33  Dascllus Reticulatus  40  276
+ 143  18  Abudefduf Vaigiensis  33  193
+id 40 94  23  Dascllus Reticulatus  24  272
+ 0  39  Dascllus Reticulatus  41  276
+ 143  18  Abudefduf Vaigiensis  32  196
+id 41 99  23  Dascllus Reticulatus  24  276
+ 7  41  Dascllus Reticulatus  36  281
+ 143  18  Abudefduf Vaigiensis  23  205
+id 42 105  23  Dascllus Reticulatus  24  282
+ 19  41  Dascllus Reticulatus  25  293
+ 143  18  Abudefduf Vaigiensis  23  205
+id 43 107  23  Dascllus Reticulatus  24  284
+ 24  42  Dascllus Reticulatus  25  294
+ 145  18  Abudefduf Vaigiensis  22  211
+id 44 110  23  Dascllus Reticulatus  24  290
+ 145  18  Abudefduf Vaigiensis  22  211
+id 45 113  23  Dascllus Reticulatus  24  294
+ 145  18  Abudefduf Vaigiensis  14  219
+ 1  22  Dascllus Reticulatus  26  188
+id 46 113  23  Dascllus Reticulatus  24  294
+ 144  18  Abudefduf Vaigiensis  14  222
+ 0  23  Dascllus Reticulatus  28  188
+id 47 0  23  Dascllus Reticulatus  23  195
+id 53 74  18  Pemperis Vanicolensis  26  38
+id 54 0  17  Abudefduf Vaigiensis  32  266
+ 74  18  Pemperis Vanicolensis  31  32
+id 55 0  19  Abudefduf Vaigiensis  37  258
+ 74  18  Pemperis Vanicolensis  29  32
+id 56 6  16  Abudefduf Vaigiensis  37  245
+id 57 21  26  Dascllus Reticulatus  27  201
+id 58 25  24  Dascllus Reticulatus  26  207
+ 0  17  Abudefduf Vaigiensis  32  222
+id 59 67  18  Pemperis Vanicolensis  28  28
+id 60 64  17  Pemperis Vanicolensis  30  24
+ 35  21  Dascllus Reticulatus  18  235
+ 33  19  Dascllus Reticulatus  17  217
+id 61 63  17  Pemperis Vanicolensis  30  24
+ 35  21  Dascllus Reticulatus  24  235
+ 38  19  Dascllus Reticulatus  17  214
+id 62 61  17  Pemperis Vanicolensis  25  23
+id 63 59  17  Pemperis Vanicolensis  25  23
+id 64 59  17  Pemperis Vanicolensis  25  23
+id 68 102  50  Plectrogl-Pidodon Dickii  37  1
+ 190  49  Plectrogl-Pidodon Dickii  72  219
+ 83  17  Dascllus Reticulatus  25  184
+id 69 102  50  Plectrogl-Pidodon Dickii  37  1
+ 187  50  Plectrogl-Pidodon Dickii  89  200
+ 85  17  Dascllus Reticulatus  27  179
+id 70 187  42  Plectrogl-Pidodon Dickii  76  197
+ 85  17  Dascllus Reticulatus  23  179
+id 71 187  42  Plectrogl-Pidodon Dickii  58  197
+id 72 187  40  Plectrogl-Pidodon Dickii  38  197
+id 73 187  35  Plectrogl-Pidodon Dickii  30  198
+id 76 84  22  Dascllus Reticulatus  23  290
+ 181  32  Plectrogl-Pidodon Dickii  35  190
+ 64  21  Pemperis Vanicolensis  23  33
+id 77 79  17  Dascllus Reticulatus  22  178
+ 179  29  Plectrogl-Pidodon Dickii  26  197
+ 80  22  Dascllus Reticulatus  24  293
+ 66  21  Pemperis Vanicolensis  23  35
+id 78 78  17  Dascllus Reticulatus  22  180
+ 77  22  Dascllus Reticulatus  24  294
+ 173  33  Plectrogl-Pidodon Dickii  24  195
+ 66  23  Pemperis Vanicolensis  26  35
+id 79 77  17  Dascllus Reticulatus  22  182
+ 170  30  Plectrogl-Pidodon Dickii  24  195
+ 66  23  Pemperis Vanicolensis  26  35
+id 80 166  28  Plectrogl-Pidodon Dickii  19  191
+ 75  17  Dascllus Reticulatus  22  183
+id 84 148  29  Plectrogl-Pidodon Dickii  33  166
+id 85 149  29  Plectrogl-Pidodon Dickii  34  166
+id 86 149  32  Plectrogl-Pidodon Dickii  37  166
+id 87 148  34  Plectrogl-Pidodon Dickii  37  169
+id 88 147  36  Plectrogl-Pidodon Dickii  35  171
+id 89 144  40  Plectrogl-Pidodon Dickii  35  175
+id 90 143  40  Plectrogl-Pidodon Dickii  35  175
+id 91 143  39  Plectrogl-Pidodon Dickii  37  175
+id 92 150  34  Plectrogl-Pidodon Dickii  34  181
+id 93 152  35  Plectrogl-Pidodon Dickii  36  186
+id 94 153  38  Plectrogl-Pidodon Dickii  35  189
+id 95 155  34  Plectrogl-Pidodon Dickii  33  194
+id 96 158  32  Plectrogl-Pidodon Dickii  29  203
+id 97 160  30  Plectrogl-Pidodon Dickii  25  208
+ 84  21  Dascllus Reticulatus  23  275
+id 99 96  20  Dascllus Reticulatus  27  257
+ 166  23  Plectrogl-Pidodon Dickii  27  216
+ 149  20  Dascllus Reticulatus  21  289
+id 100 100  20  Dascllus Reticulatus  23  254
+ 164  25  Plectrogl-Pidodon Dickii  28  214
+ 148  20  Dascllus Reticulatus  21  286
+id 101 108  23  Dascllus Reticulatus  26  243
+ 165  24  Plectrogl-Pidodon Dickii  34  208
+ 144  22  Dascllus Reticulatus  26  277
+id 102 118  21  Dascllus Reticulatus  24  236
+ 162  25  Plectrogl-Pidodon Dickii  40  203
+id 103 125  21  Dascllus Reticulatus  24  231
+ 160  27  Plectrogl-Pidodon Dickii  40  199
+ 143  22  Dascllus Reticulatus  30  259
+id 104 133  21  Dascllus Reticulatus  24  222
+ 156  27  Plectrogl-Pidodon Dickii  41  193
+ 143  22  Dascllus Reticulatus  30  248
+id 105 152  24  Plectrogl-Pidodon Dickii  39  189
+ 144  21  Dascllus Reticulatus  29  241
+ 140  21  Dascllus Reticulatus  24  217
+id 106 150  25  Plectrogl-Pidodon Dickii  41  183
+ 145  21  Dascllus Reticulatus  29  239
+ 142  21  Dascllus Reticulatus  24  216
+ 66  15  Pemperis Vanicolensis  28  51
+id 107 145  24  Plectrogl-Pidodon Dickii  46  179
+ 66  15  Pemperis Vanicolensis  31  51
+id 108 142  24  Plectrogl-Pidodon Dickii  43  174
+ 40  18  Dascllus Reticulatus  20  198
+ 66  18  Pemperis Vanicolensis  31  53
+ 9  14  Dascllus Reticulatus  16  134
+id 109 140  24  Plectrogl-Pidodon Dickii  44  168
+ 41  19  Dascllus Reticulatus  22  196
+ 66  18  Pemperis Vanicolensis  31  53
+id 110 136  26  Plectrogl-Pidodon Dickii  28  170
+ 46  21  Dascllus Reticulatus  25  192
+ 61  18  Pemperis Vanicolensis  32  47
+id 111 52  21  Dascllus Reticulatus  25  190
+ 59  18  Pemperis Vanicolensis  32  41
+id 112 55  21  Dascllus Reticulatus  25  188
+ 59  16  Pemperis Vanicolensis  32  38
+id 113 60  23  Dascllus Reticulatus  27  182
+ 57  17  Pemperis Vanicolensis  27  35
+id 114 129  26  Plectrogl-Pidodon Dickii  28  164
+ 53  17  Pemperis Vanicolensis  31  26
+id 115 129  26  Plectrogl-Pidodon Dickii  28  164
+ 63  20  Dascllus Reticulatus  31  172
+id 116 129  26  Plectrogl-Pidodon Dickii  31  164
+ 133  14  Abudefduf Vaigiensis  22  279
+ 103  19  Abudefduf Vaigiensis  19  284
+ 63  20  Dascllus Reticulatus  23  169
+id 117 129  26  Plectrogl-Pidodon Dickii  33  161
+ 131  14  Abudefduf Vaigiensis  22  281
+ 99  17  Abudefduf Vaigiensis  24  269
+ 56  20  Dascllus Reticulatus  20  162
+ 155  24  Dascllus Reticulatus  31  286
+id 118 129  25  Plectrogl-Pidodon Dickii  30  161
+ 155  24  Dascllus Reticulatus  33  280
+ 55  20  Dascllus Reticulatus  20  160
+ 130  14  Abudefduf Vaigiensis  22  282
+ 96  17  Abudefduf Vaigiensis  19  266
+id 119 153  22  Dascllus Reticulatus  33  271
+ 129  24  Plectrogl-Pidodon Dickii  28  163
+ 117  22  Dascllus Reticulatus  28  145
+id 120 129  23  Plectrogl-Pidodon Dickii  22  163
+ 148  22  Dascllus Reticulatus  27  264
+ 110  22  Dascllus Reticulatus  29  133
+ 52  22  Dascllus Reticulatus  28  151
+ 80  19  Abudefduf Vaigiensis  21  245
+id 121 129  23  Plectrogl-Pidodon Dickii  22  163
+ 144  22  Dascllus Reticulatus  25  260
+ 107  22  Dascllus Reticulatus  27  130
+ 52  22  Dascllus Reticulatus  28  151
+ 79  19  Abudefduf Vaigiensis  23  243
+id 122 52  22  Dascllus Reticulatus  28  151
+ 78  21  Abudefduf Vaigiensis  26  229
+ 129  24  Plectrogl-Pidodon Dickii  18  161
+id 123 51  26  Dascllus Reticulatus  28  153
+id 124 51  26  Dascllus Reticulatus  27  154
+ 129  22  Plectrogl-Pidodon Dickii  31  145
+id 125 127  22  Plectrogl-Pidodon Dickii  31  130
+ 54  23  Dascllus Reticulatus  27  157
+ 135  17  Dascllus Reticulatus  22  195
+ 118  20  Dascllus Reticulatus  27  241
+id 126 127  20  Plectrogl-Pidodon Dickii  30  121
+ 54  23  Dascllus Reticulatus  27  157
+ 128  17  Dascllus Reticulatus  22  202
+ 114  20  Dascllus Reticulatus  26  243
+id 127 56  18  Dascllus Reticulatus  22  163
+ 126  17  Dascllus Reticulatus  22  206
+ 113  21  Dascllus Reticulatus  27  242
+id 128 113  23  Dascllus Reticulatus  28  246
+ 120  17  Dascllus Reticulatus  24  211
+id 129 115  22  Dascllus Reticulatus  30  252
+ 116  15  Dascllus Reticulatus  22  218
+id 130 115  22  Dascllus Reticulatus  30  256
+ 114  15  Dascllus Reticulatus  22  223
+id 131 89  22  Dascllus Reticulatus  32  94
+ 110  15  Dascllus Reticulatus  22  230
+ 115  19  Dascllus Reticulatus  28  269
+id 132 86  22  Dascllus Reticulatus  28  94
+ 106  15  Dascllus Reticulatus  23  238
+ 110  20  Dascllus Reticulatus  30  281
+id 133 87  22  Dascllus Reticulatus  28  94
+ 108  20  Dascllus Reticulatus  30  286
+ 104  15  Dascllus Reticulatus  21  242
+id 134 83  23  Dascllus Reticulatus  32  88
+ 100  17  Dascllus Reticulatus  24  249
+ 118  23  Plectrogl-Pidodon Dickii  27  120
+id 135 83  23  Dascllus Reticulatus  32  83
+ 98  17  Dascllus Reticulatus  24  256
+ 119  25  Plectrogl-Pidodon Dickii  30  118
+id 136 119  25  Plectrogl-Pidodon Dickii  34  115
+ 83  23  Dascllus Reticulatus  32  82
+id 137 84  23  Dascllus Reticulatus  31  81
+ 117  24  Plectrogl-Pidodon Dickii  36  113
+id 138 84  23  Dascllus Reticulatus  28  81
+ 115  28  Plectrogl-Pidodon Dickii  38  113
+ 83  31  Dascllus Reticulatus  33  143
+id 139 85  21  Dascllus Reticulatus  29  80
+ 115  28  Plectrogl-Pidodon Dickii  39  112
+ 89  32  Dascllus Reticulatus  34  141
+id 140 115  26  Plectrogl-Pidodon Dickii  40  112
+ 85  24  Dascllus Reticulatus  33  80
+ 97  36  Dascllus Reticulatus  36  140
+id 141 85  24  Dascllus Reticulatus  33  80
+ 113  27  Plectrogl-Pidodon Dickii  34  112
+id 142 84  22  Dascllus Reticulatus  29  81
+ 113  27  Plectrogl-Pidodon Dickii  34  112
+id 143 82  23  Dascllus Reticulatus  35  77
+ 112  31  Plectrogl-Pidodon Dickii  40  109
+id 144 79  23  Dascllus Reticulatus  37  73
+ 112  31  Plectrogl-Pidodon Dickii  40  113
+id 145 78  23  Dascllus Reticulatus  37  72
+ 113  31  Plectrogl-Pidodon Dickii  38  115
+id 146 77  21  Dascllus Reticulatus  33  72
+ 113  35  Plectrogl-Pidodon Dickii  39  119
+id 147 73  25  Dascllus Reticulatus  33  71
+ 113  33  Plectrogl-Pidodon Dickii  39  119
+id 148 72  23  Dascllus Reticulatus  33  71
+ 115  32  Plectrogl-Pidodon Dickii  38  119
+id 149 70  23  Dascllus Reticulatus  27  74
+ 115  32  Plectrogl-Pidodon Dickii  36  119
+id 150 64  24  Dascllus Reticulatus  24  75
+ 115  30  Plectrogl-Pidodon Dickii  33  119
+id 151 63  21  Dascllus Reticulatus  24  75
+ 116  29  Plectrogl-Pidodon Dickii  32  117
+id 152 116  31  Plectrogl-Pidodon Dickii  32  115
+ 60  22  Dascllus Reticulatus  19  79
+id 153 116  30  Plectrogl-Pidodon Dickii  27  116
+ 58  22  Dascllus Reticulatus  19  81
+id 154 116  30  Plectrogl-Pidodon Dickii  27  115
+ 58  20  Dascllus Reticulatus  21  81
+id 156 125  20  Mripristis Kuntee  24  125
+ 53  20  Dascllus Reticulatus  19  84
+id 157 125  22  Mripristis Kuntee  27  126
+id 158 126  23  Mripristis Kuntee  29  132
+ 112  30  Plectrogl-Pidodon Dickii  39  103
+id 161 117  31  Plectrogl-Pidodon Dickii  41  110
+id 162 117  34  Plectrogl-Pidodon Dickii  39  114
+id 163 115  38  Plectrogl-Pidodon Dickii  41  116
+ 46  57  Dascllus Reticulatus  33  116
+id 164 24  61  Dascllus Reticulatus  33  117
+ 118  31  Plectrogl-Pidodon Dickii  34  119
+ 45  22  Dascllus Reticulatus  20  82
+id 165 40  26  Dascllus Reticulatus  25  80
+id 166 37  26  Dascllus Reticulatus  25  81
+id 167 118  30  Plectrogl-Pidodon Dickii  34  111
+ 31  26  Dascllus Reticulatus  25  81
+ 151  18  Dascllus Reticulatus  24  251
+id 168 24  23  Dascllus Reticulatus  25  76
+ 118  27  Plectrogl-Pidodon Dickii  34  111
+ 114  24  Mripristis Kuntee  46  130
+ 151  18  Dascllus Reticulatus  26  256
+id 169 112  26  Mripristis Kuntee  54  130
+ 20  23  Dascllus Reticulatus  25  74
+ 122  21  Plectrogl-Pidodon Dickii  32  110
+ 150  18  Dascllus Reticulatus  23  259
+id 170 109  26  Mripristis Kuntee  65  136
+ 13  23  Dascllus Reticulatus  25  72
+id 171 106  26  Mripristis Kuntee  61  150
+ 9  20  Dascllus Reticulatus  25  71
+id 172 105  26  Mripristis Kuntee  64  156
+ 7  21  Dascllus Reticulatus  29  66
+ 118  25  Plectrogl-Pidodon Dickii  42  111
+id 173 102  27  Mripristis Kuntee  63  169
+ 122  26  Plectrogl-Pidodon Dickii  38  117
+id 174 101  27  Mripristis Kuntee  59  186
+ 116  35  Plectrogl-Pidodon Dickii  34  118
+id 175 100  27  Mripristis Kuntee  59  193
+ 118  33  Plectrogl-Pidodon Dickii  27  120
+id 176 98  27  Mripristis Kuntee  59  204
+ 118  29  Plectrogl-Pidodon Dickii  25  121
+id 177 97  27  Mripristis Kuntee  56  219
+id 178 95  27  Mripristis Kuntee  55  224
+id 179 95  27  Mripristis Kuntee  55  224
+id 180 101  23  Mripristis Kuntee  54  250
+id 181 102  23  Mripristis Kuntee  54  255
+id 182 105  23  Mripristis Kuntee  44  274
+id 183 105  23  Mripristis Kuntee  31  287
+id 191 128  21  Pemperis Vanicolensis  31  129
+id 192 125  19  Pemperis Vanicolensis  29  126
+id 193 124  16  Pemperis Vanicolensis  25  125
+id 200 59  31  Mripristis Kuntee  31  288
+ 122  20  Pemperis Vanicolensis  23  119
+id 201 55  35  Mripristis Kuntee  33  285
+ 122  21  Pemperis Vanicolensis  24  120
+id 202 47  44  Mripristis Kuntee  29  282
+ 123  21  Pemperis Vanicolensis  24  121
+id 203 54  38  Mripristis Kuntee  20  278
+ 123  21  Pemperis Vanicolensis  24  123
+id 204 51  40  Mripristis Kuntee  21  274
+ 212  22  Plectrogl-Pidodon Dickii  21  271
+ 121  24  Pemperis Vanicolensis  24  125
+id 205 48  43  Mripristis Kuntee  25  269
+ 212  22  Plectrogl-Pidodon Dickii  21  271
+ 121  24  Pemperis Vanicolensis  24  125
+id 206 215  18  Plectrogl-Pidodon Dickii  21  271
+ 61  31  Mripristis Kuntee  32  263
+ 123  23  Pemperis Vanicolensis  22  128
+id 207 54  40  Mripristis Kuntee  42  254
+ 215  19  Plectrogl-Pidodon Dickii  23  269
+ 125  23  Pemperis Vanicolensis  22  133
+id 208 57  36  Mripristis Kuntee  40  258
+ 215  19  Plectrogl-Pidodon Dickii  23  269
+id 209 58  37  Mripristis Kuntee  44  258
+id 210 61  35  Mripristis Kuntee  48  258
+id 211 62  35  Mripristis Kuntee  48  259
+id 212 64  34  Mripristis Kuntee  47  262
+id 213 67  33  Mripristis Kuntee  46  266
+id 214 68  33  Mripristis Kuntee  44  269
+id 215 127  33  Plectrogl-Pidodon Dickii  57  79
+ 72  33  Mripristis Kuntee  41  274
+id 216 127  33  Plectrogl-Pidodon Dickii  57  79
+ 74  34  Mripristis Kuntee  42  276
+id 217 127  35  Plectrogl-Pidodon Dickii  57  79
+ 76  32  Mripristis Kuntee  39  278
+id 218 128  39  Plectrogl-Pidodon Dickii  62  74
+ 80  28  Mripristis Kuntee  32  285
+id 219 127  37  Plectrogl-Pidodon Dickii  61  70
+ 86  28  Mripristis Kuntee  30  289
+id 220 127  38  Plectrogl-Pidodon Dickii  60  75
+ 86  28  Mripristis Kuntee  28  291
+id 221 133  32  Plectrogl-Pidodon Dickii  54  81
+ 89  25  Mripristis Kuntee  25  294
+id 222 138  28  Plectrogl-Pidodon Dickii  41  94
+ 93  23  Mripristis Kuntee  22  297
+id 223 141  28  Plectrogl-Pidodon Dickii  33  102
+ 96  22  Mripristis Kuntee  22  297
+id 231 123  20  Pemperis Vanicolensis  36  130
+id 232 123  19  Pemperis Vanicolensis  33  130
+id 233 119  18  Pemperis Vanicolensis  31  128
+id 254 44  21  Dascllus Reticulatus  32  219
+id 255 31  21  Dascllus Reticulatus  32  240
+id 256 1  49  Dascllus Reticulatus  24  199
+ 28  21  Dascllus Reticulatus  32  248
+id 257 30  46  Dascllus Reticulatus  24  212
+id 258 51  46  Dascllus Reticulatus  24  225
+id 260 88  43  Dascllus Reticulatus  26  242
+id 261 106  43  Dascllus Reticulatus  26  253
+id 262 117  39  Dascllus Reticulatus  28  257
+ 133  18  Pemperis Vanicolensis  33  143
+id 263 133  32  Dascllus Reticulatus  32  268
+ 131  18  Pemperis Vanicolensis  33  142
+id 264 145  28  Dascllus Reticulatus  32  285
+ 129  18  Pemperis Vanicolensis  33  138
+id 265 129  18  Pemperis Vanicolensis  34  136
+id 266 129  18  Pemperis Vanicolensis  34  133
+id 267 127  17  Pemperis Vanicolensis  31  130
+id 268 126  17  Pemperis Vanicolensis  32  128
+id 269 124  15  Pemperis Vanicolensis  28  126
+id 270 122  15  Pemperis Vanicolensis  30  119
+id 271 121  15  Pemperis Vanicolensis  29  117
+id 272 119  15  Pemperis Vanicolensis  31  111
+id 284 115  17  Mripristis Kuntee  24  247
+id 285 114  19  Mripristis Kuntee  26  244
+id 286 114  18  Mripristis Kuntee  27  241
+id 287 113  17  Mripristis Kuntee  27  242
+id 288 111  19  Mripristis Kuntee  36  238
