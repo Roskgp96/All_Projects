@@ -1,0 +1,316 @@
+id 0 233  68  Dascllus Aruanus  87  322
+id 1 230  68  Dascllus Aruanus  87  319
+id 2 231  68  Dascllus Aruanus  87  342
+id 3 230  68  Dascllus Aruanus  70  356
+id 4 231  68  Dascllus Aruanus  60  367
+id 5 232  68  Dascllus Aruanus  60  372
+id 6 234  68  Dascllus Aruanus  60  380
+id 7 234  68  Dascllus Aruanus  60  385
+id 8 235  68  Dascllus Aruanus  60  391
+id 9 237  76  Dascllus Aruanus  60  394
+id 10 240  76  Dascllus Aruanus  60  397
+id 11 251  84  Dascllus Aruanus  51  410
+id 12 262  84  Dascllus Aruanus  51  413
+id 13 263  84  Dascllus Aruanus  51  414
+id 14 270  84  Dascllus Aruanus  51  414
+id 15 278  84  Dascllus Aruanus  51  415
+id 16 280  84  Dascllus Aruanus  51  413
+id 17 291  84  Dascllus Aruanus  51  409
+id 18 292  84  Dascllus Aruanus  40  410
+id 19 294  84  Dascllus Aruanus  40  408
+id 20 296  84  Dascllus Aruanus  40  404
+id 21 298  84  Dascllus Aruanus  40  402
+id 22 279  126  Dascllus Aruanus  57  386
+id 23 280  140  Dascllus Aruanus  74  370
+id 24 281  160  Dascllus Aruanus  97  348
+id 25 282  168  Dascllus Aruanus  106  340
+id 26 301  174  Dascllus Aruanus  109  311
+id 27 306  174  Dascllus Aruanus  109  299
+id 28 310  174  Dascllus Aruanus  109  268
+id 29 312  174  Dascllus Aruanus  115  249
+id 30 313  174  Dascllus Aruanus  188  177
+id 31 314  174  Dascllus Aruanus  229  119
+id 32 315  174  Dascllus Aruanus  296  2
+id 33 316  174  Dascllus Aruanus  232  3
+id 374 346  45  Plectrogl-Pidodon Dickii  38  273
+id 375 349  45  Plectrogl-Pidodon Dickii  38  282
+id 376 352  50  Plectrogl-Pidodon Dickii  38  284
+id 377 354  50  Plectrogl-Pidodon Dickii  38  293
+id 378 358  50  Plectrogl-Pidodon Dickii  38  295
+id 379 360  47  Plectrogl-Pidodon Dickii  33  305
+id 380 360  47  Plectrogl-Pidodon Dickii  33  307
+id 381 361  47  Plectrogl-Pidodon Dickii  33  311
+id 382 362  42  Plectrogl-Pidodon Dickii  31  315
+id 383 362  42  Plectrogl-Pidodon Dickii  31  317
+id 384 363  42  Plectrogl-Pidodon Dickii  31  318
+id 385 369  42  Plectrogl-Pidodon Dickii  31  327
+id 386 368  42  Plectrogl-Pidodon Dickii  31  329
+id 387 370  42  Plectrogl-Pidodon Dickii  31  331
+id 388 370  42  Plectrogl-Pidodon Dickii  30  332
+id 389 372  41  Plectrogl-Pidodon Dickii  29  336
+id 390 374  41  Plectrogl-Pidodon Dickii  29  338
+ 335  50  Plectrogl-Pidodon Dickii  35  270
+id 391 336  50  Plectrogl-Pidodon Dickii  35  271
+ 375  41  Plectrogl-Pidodon Dickii  29  339
+id 392 337  50  Plectrogl-Pidodon Dickii  35  272
+ 376  41  Plectrogl-Pidodon Dickii  29  340
+id 393 338  50  Plectrogl-Pidodon Dickii  35  273
+ 377  41  Plectrogl-Pidodon Dickii  29  341
+id 394 339  50  Plectrogl-Pidodon Dickii  35  274
+ 378  41  Plectrogl-Pidodon Dickii  29  342
+id 395 378  41  Plectrogl-Pidodon Dickii  29  350
+ 340  50  Plectrogl-Pidodon Dickii  35  275
+id 396 379  41  Plectrogl-Pidodon Dickii  29  351
+ 341  50  Plectrogl-Pidodon Dickii  35  276
+id 397 342  50  Plectrogl-Pidodon Dickii  35  277
+ 380  41  Plectrogl-Pidodon Dickii  29  352
+id 398 340  50  Plectrogl-Pidodon Dickii  35  286
+ 381  41  Plectrogl-Pidodon Dickii  29  353
+id 399 341  50  Plectrogl-Pidodon Dickii  35  287
+ 382  41  Plectrogl-Pidodon Dickii  29  354
+id 400 342  50  Plectrogl-Pidodon Dickii  35  288
+ 383  41  Plectrogl-Pidodon Dickii  29  355
+id 401 343  50  Plectrogl-Pidodon Dickii  35  289
+ 384  41  Plectrogl-Pidodon Dickii  29  356
+id 402 381  41  Plectrogl-Pidodon Dickii  29  360
+ 344  50  Plectrogl-Pidodon Dickii  35  290
+id 403 349  43  Plectrogl-Pidodon Dickii  31  295
+id 404 350  43  Plectrogl-Pidodon Dickii  31  296
+id 405 350  43  Plectrogl-Pidodon Dickii  32  296
+id 406 350  43  Plectrogl-Pidodon Dickii  32  298
+id 407 351  43  Plectrogl-Pidodon Dickii  32  299
+id 408 350  43  Plectrogl-Pidodon Dickii  34  297
+id 409 351  43  Plectrogl-Pidodon Dickii  34  298
+id 410 353  39  Plectrogl-Pidodon Dickii  33  299
+id 411 354  40  Plectrogl-Pidodon Dickii  32  301
+ 373  54  Plectrogl-Pidodon Dickii  37  363
+id 412 355  39  Plectrogl-Pidodon Dickii  32  301
+ 372  54  Plectrogl-Pidodon Dickii  37  362
+id 413 356  38  Plectrogl-Pidodon Dickii  31  303
+ 374  54  Plectrogl-Pidodon Dickii  37  366
+id 414 357  38  Plectrogl-Pidodon Dickii  31  304
+ 373  54  Plectrogl-Pidodon Dickii  37  365
+id 415 358  38  Plectrogl-Pidodon Dickii  31  305
+ 370  54  Plectrogl-Pidodon Dickii  37  367
+id 416 359  38  Plectrogl-Pidodon Dickii  31  306
+ 369  54  Plectrogl-Pidodon Dickii  37  366
+id 417 360  38  Plectrogl-Pidodon Dickii  31  307
+ 368  54  Plectrogl-Pidodon Dickii  37  365
+id 418 361  38  Plectrogl-Pidodon Dickii  31  308
+ 370  54  Plectrogl-Pidodon Dickii  37  366
+id 419 363  38  Plectrogl-Pidodon Dickii  31  310
+ 373  54  Plectrogl-Pidodon Dickii  37  370
+id 420 363  38  Plectrogl-Pidodon Dickii  31  310
+ 372  54  Plectrogl-Pidodon Dickii  37  369
+id 421 364  38  Plectrogl-Pidodon Dickii  31  311
+ 371  54  Plectrogl-Pidodon Dickii  37  368
+id 422 365  38  Plectrogl-Pidodon Dickii  31  312
+ 370  54  Plectrogl-Pidodon Dickii  37  367
+id 423 365  38  Plectrogl-Pidodon Dickii  31  312
+ 369  54  Plectrogl-Pidodon Dickii  37  366
+id 424 366  38  Plectrogl-Pidodon Dickii  31  313
+ 370  54  Plectrogl-Pidodon Dickii  37  367
+id 425 368  38  Plectrogl-Pidodon Dickii  39  307
+ 372  54  Plectrogl-Pidodon Dickii  37  369
+id 426 366  41  Plectrogl-Pidodon Dickii  43  304
+ 373  48  Plectrogl-Pidodon Dickii  37  370
+id 427 367  41  Plectrogl-Pidodon Dickii  43  305
+ 374  48  Plectrogl-Pidodon Dickii  37  371
+id 428 366  44  Plectrogl-Pidodon Dickii  43  303
+ 374  48  Plectrogl-Pidodon Dickii  37  371
+id 429 367  44  Plectrogl-Pidodon Dickii  43  304
+ 373  48  Plectrogl-Pidodon Dickii  37  369
+id 430 368  44  Plectrogl-Pidodon Dickii  43  305
+ 371  48  Plectrogl-Pidodon Dickii  37  368
+id 431 366  44  Plectrogl-Pidodon Dickii  43  311
+ 372  48  Plectrogl-Pidodon Dickii  37  369
+id 432 367  44  Plectrogl-Pidodon Dickii  43  312
+ 373  48  Plectrogl-Pidodon Dickii  37  370
+id 433 368  44  Plectrogl-Pidodon Dickii  43  313
+ 373  48  Plectrogl-Pidodon Dickii  37  369
+id 434 369  44  Plectrogl-Pidodon Dickii  43  314
+ 374  48  Plectrogl-Pidodon Dickii  20  370
+id 435 378  36  Plectrogl-Pidodon Dickii  43  315
+ 370  48  Plectrogl-Pidodon Dickii  20  368
+id 436 379  36  Plectrogl-Pidodon Dickii  43  316
+ 374  48  Plectrogl-Pidodon Dickii  20  367
+id 437 381  32  Plectrogl-Pidodon Dickii  37  320
+ 378  43  Plectrogl-Pidodon Dickii  20  365
+id 438 382  32  Plectrogl-Pidodon Dickii  37  321
+id 467 357  48  Plectrogl-Pidodon Dickii  30  326
+id 468 362  42  Plectrogl-Pidodon Dickii  30  324
+id 469 361  44  Plectrogl-Pidodon Dickii  38  323
+id 470 360  44  Plectrogl-Pidodon Dickii  38  322
+id 471 361  44  Plectrogl-Pidodon Dickii  38  323
+id 472 361  47  Plectrogl-Pidodon Dickii  38  322
+id 473 362  51  Plectrogl-Pidodon Dickii  38  326
+id 474 361  51  Plectrogl-Pidodon Dickii  38  327
+id 475 360  51  Plectrogl-Pidodon Dickii  38  326
+id 476 359  51  Plectrogl-Pidodon Dickii  38  325
+id 477 360  51  Plectrogl-Pidodon Dickii  38  326
+id 478 362  51  Plectrogl-Pidodon Dickii  38  328
+id 479 363  51  Plectrogl-Pidodon Dickii  38  326
+id 480 362  51  Plectrogl-Pidodon Dickii  38  327
+id 481 362  51  Plectrogl-Pidodon Dickii  38  325
+id 482 363  51  Plectrogl-Pidodon Dickii  38  326
+id 483 364  51  Plectrogl-Pidodon Dickii  38  327
+id 484 362  51  Plectrogl-Pidodon Dickii  38  325
+id 485 363  51  Plectrogl-Pidodon Dickii  38  326
+id 486 364  51  Plectrogl-Pidodon Dickii  38  327
+id 487 365  47  Plectrogl-Pidodon Dickii  35  328
+id 488 366  47  Plectrogl-Pidodon Dickii  35  329
+id 489 365  47  Plectrogl-Pidodon Dickii  35  327
+id 490 366  47  Plectrogl-Pidodon Dickii  35  328
+id 491 364  47  Plectrogl-Pidodon Dickii  35  323
+id 492 365  47  Plectrogl-Pidodon Dickii  35  324
+id 493 366  47  Plectrogl-Pidodon Dickii  35  325
+id 494 367  47  Plectrogl-Pidodon Dickii  35  326
+id 549 363  38  Plectrogl-Pidodon Dickii  42  318
+id 550 364  38  Plectrogl-Pidodon Dickii  42  319
+id 551 361  38  Plectrogl-Pidodon Dickii  42  319
+id 552 362  38  Plectrogl-Pidodon Dickii  42  320
+id 553 359  38  Plectrogl-Pidodon Dickii  42  319
+id 554 357  38  Plectrogl-Pidodon Dickii  42  313
+id 555 355  38  Plectrogl-Pidodon Dickii  42  313
+id 556 355  38  Plectrogl-Pidodon Dickii  42  309
+id 557 352  41  Plectrogl-Pidodon Dickii  47  301
+id 558 353  41  Plectrogl-Pidodon Dickii  47  300
+id 563 365  57  Plectrogl-Pidodon Dickii  46  368
+ 343  55  Plectrogl-Pidodon Dickii  46  294
+ 329  38  Plectrogl-Pidodon Dickii  28  259
+id 564 330  38  Plectrogl-Pidodon Dickii  28  260
+ 344  55  Plectrogl-Pidodon Dickii  46  295
+ 368  57  Plectrogl-Pidodon Dickii  46  372
+id 565 369  57  Plectrogl-Pidodon Dickii  46  373
+ 345  48  Plectrogl-Pidodon Dickii  41  301
+ 331  40  Plectrogl-Pidodon Dickii  31  258
+id 566 370  57  Plectrogl-Pidodon Dickii  46  374
+ 344  48  Plectrogl-Pidodon Dickii  45  304
+ 332  40  Plectrogl-Pidodon Dickii  33  257
+id 567 368  57  Plectrogl-Pidodon Dickii  46  378
+ 340  48  Plectrogl-Pidodon Dickii  45  305
+ 333  40  Plectrogl-Pidodon Dickii  33  258
+id 568 334  40  Plectrogl-Pidodon Dickii  33  259
+ 341  48  Plectrogl-Pidodon Dickii  45  306
+ 369  57  Plectrogl-Pidodon Dickii  46  379
+id 569 374  49  Plectrogl-Pidodon Dickii  39  391
+ 342  48  Plectrogl-Pidodon Dickii  45  307
+ 338  40  Plectrogl-Pidodon Dickii  33  254
+id 570 375  48  Plectrogl-Pidodon Dickii  36  396
+ 324  48  Plectrogl-Pidodon Dickii  45  311
+ 337  40  Plectrogl-Pidodon Dickii  33  247
+id 571 376  48  Plectrogl-Pidodon Dickii  47  397
+ 321  42  Plectrogl-Pidodon Dickii  45  317
+ 342  40  Plectrogl-Pidodon Dickii  33  244
+id 572 383  39  Plectrogl-Pidodon Dickii  46  409
+ 310  42  Plectrogl-Pidodon Dickii  45  329
+ 344  40  Plectrogl-Pidodon Dickii  33  235
+id 573 383  39  Plectrogl-Pidodon Dickii  56  413
+ 306  43  Plectrogl-Pidodon Dickii  59  329
+ 348  40  Plectrogl-Pidodon Dickii  33  230
+id 574 350  40  Plectrogl-Pidodon Dickii  33  225
+ 301  43  Plectrogl-Pidodon Dickii  59  335
+ 368  39  Plectrogl-Pidodon Dickii  56  430
+id 575 361  42  Plectrogl-Pidodon Dickii  63  426
+ 294  43  Plectrogl-Pidodon Dickii  59  335
+ 349  40  Plectrogl-Pidodon Dickii  33  222
+id 576 337  42  Plectrogl-Pidodon Dickii  63  437
+ 290  43  Plectrogl-Pidodon Dickii  59  345
+id 577 291  43  Plectrogl-Pidodon Dickii  59  346
+ 328  42  Plectrogl-Pidodon Dickii  63  437
+id 578 291  43  Plectrogl-Pidodon Dickii  59  352
+ 324  44  Plectrogl-Pidodon Dickii  63  437
+ 335  48  Plectrogl-Pidodon Dickii  36  201
+id 579 341  48  Plectrogl-Pidodon Dickii  36  207
+ 297  43  Plectrogl-Pidodon Dickii  45  372
+ 318  44  Plectrogl-Pidodon Dickii  63  443
+ 202  23  Dascllus Aruanus  23  151
+id 580 311  49  Plectrogl-Pidodon Dickii  63  441
+ 295  43  Plectrogl-Pidodon Dickii  45  380
+ 334  48  Plectrogl-Pidodon Dickii  36  220
+ 198  23  Dascllus Aruanus  23  143
+id 581 312  49  Plectrogl-Pidodon Dickii  63  442
+ 296  43  Plectrogl-Pidodon Dickii  45  381
+ 335  48  Plectrogl-Pidodon Dickii  51  221
+ 199  23  Dascllus Aruanus  23  144
+id 582 313  49  Plectrogl-Pidodon Dickii  51  455
+ 299  40  Plectrogl-Pidodon Dickii  35  392
+ 335  38  Plectrogl-Pidodon Dickii  33  242
+ 200  23  Dascllus Aruanus  23  145
+id 583 314  49  Plectrogl-Pidodon Dickii  51  456
+ 300  40  Plectrogl-Pidodon Dickii  35  393
+ 335  47  Plectrogl-Pidodon Dickii  43  243
+ 199  23  Dascllus Aruanus  23  137
+id 584 338  40  Plectrogl-Pidodon Dickii  35  256
+ 315  49  Plectrogl-Pidodon Dickii  51  457
+ 301  40  Plectrogl-Pidodon Dickii  35  394
+ 200  23  Dascllus Aruanus  23  138
+id 585 339  50  Plectrogl-Pidodon Dickii  58  257
+ 302  40  Plectrogl-Pidodon Dickii  35  395
+ 316  49  Plectrogl-Pidodon Dickii  51  458
+ 198  23  Dascllus Aruanus  23  133
+id 586 340  42  Plectrogl-Pidodon Dickii  35  281
+ 303  40  Plectrogl-Pidodon Dickii  35  396
+ 317  49  Plectrogl-Pidodon Dickii  51  459
+ 197  23  Dascllus Aruanus  23  131
+id 587 325  50  Plectrogl-Pidodon Dickii  50  293
+ 295  40  Plectrogl-Pidodon Dickii  35  398
+ 318  44  Plectrogl-Pidodon Dickii  37  472
+ 198  23  Dascllus Aruanus  23  132
+id 588 323  50  Plectrogl-Pidodon Dickii  50  305
+ 296  40  Plectrogl-Pidodon Dickii  35  399
+ 327  36  Plectrogl-Pidodon Dickii  37  473
+ 197  23  Dascllus Aruanus  23  129
+id 589 313  50  Plectrogl-Pidodon Dickii  50  330
+ 291  40  Plectrogl-Pidodon Dickii  35  409
+ 198  23  Dascllus Aruanus  23  130
+id 590 310  50  Plectrogl-Pidodon Dickii  50  347
+ 299  40  Plectrogl-Pidodon Dickii  35  418
+ 199  23  Dascllus Aruanus  23  126
+id 591 297  50  Plectrogl-Pidodon Dickii  50  360
+ 304  53  Plectrogl-Pidodon Dickii  24  480
+ 197  23  Dascllus Aruanus  23  129
+id 592 292  50  Plectrogl-Pidodon Dickii  26  379
+ 298  53  Plectrogl-Pidodon Dickii  24  480
+ 196  23  Dascllus Aruanus  23  127
+id 593 293  50  Plectrogl-Pidodon Dickii  26  380
+ 300  53  Plectrogl-Pidodon Dickii  24  478
+ 197  23  Dascllus Aruanus  23  128
+id 594 301  53  Plectrogl-Pidodon Dickii  24  479
+ 291  50  Plectrogl-Pidodon Dickii  26  384
+ 198  23  Dascllus Aruanus  23  129
+id 595 302  53  Plectrogl-Pidodon Dickii  24  480
+ 196  23  Dascllus Aruanus  23  127
+id 596 303  53  Plectrogl-Pidodon Dickii  24  481
+ 185  27  Dascllus Aruanus  25  456
+id 597 184  27  Dascllus Aruanus  25  458
+ 304  53  Plectrogl-Pidodon Dickii  24  482
+id 598 190  27  Dascllus Aruanus  25  465
+id 599 193  27  Dascllus Aruanus  25  471
+id 600 200  27  Dascllus Aruanus  25  474
+id 601 203  27  Dascllus Aruanus  25  478
+id 602 208  27  Dascllus Aruanus  25  485
+id 603 212  27  Dascllus Aruanus  25  486
+id 604 278  60  Plectrogl-Pidodon Dickii  41  478
+ 218  27  Dascllus Aruanus  25  496
+id 605 283  44  Plectrogl-Pidodon Dickii  41  373
+ 281  53  Plectrogl-Pidodon Dickii  37  479
+ 223  27  Dascllus Aruanus  25  496
+id 606 229  27  Dascllus Aruanus  25  500
+ 274  53  Plectrogl-Pidodon Dickii  37  475
+ 283  44  Plectrogl-Pidodon Dickii  51  369
+id 607 284  44  Plectrogl-Pidodon Dickii  51  370
+ 276  53  Plectrogl-Pidodon Dickii  37  470
+ 233  27  Dascllus Aruanus  25  501
+id 608 234  27  Dascllus Aruanus  25  502
+ 272  53  Plectrogl-Pidodon Dickii  37  471
+ 285  44  Plectrogl-Pidodon Dickii  51  375
+id 609 283  44  Plectrogl-Pidodon Dickii  51  386
+ 272  53  Plectrogl-Pidodon Dickii  37  468
+ 235  27  Dascllus Aruanus  25  503
+id 610 236  27  Dascllus Aruanus  25  504
+ 273  53  Plectrogl-Pidodon Dickii  37  469
+ 283  44  Plectrogl-Pidodon Dickii  51  392
+id 611 285  44  Plectrogl-Pidodon Dickii  51  396
+ 274  53  Plectrogl-Pidodon Dickii  37  470
+ 232  27  Dascllus Aruanus  25  509
